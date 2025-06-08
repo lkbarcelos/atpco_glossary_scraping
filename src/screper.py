@@ -34,6 +34,10 @@ glossary_terms = {}
 letter_buttons = driver.find_elements(By.CLASS_NAME, 'glossary-button')
 # Itera sobre cada botão de letra
 for button in letter_buttons:
+    # Captura o texto do botão (letra)
+    letter = button.text
+    # Printa a letra atual sendo processada
+    print(f'Processando letra: {letter}')
     # Clica no botão da letra para carregar os termos correspondentes
     button.click()
 
@@ -54,12 +58,14 @@ for button in letter_buttons:
         terms[term] = {'definição': definition}
 
     # Adiciona os termos da letra atual ao dicionário principal
-    glossary_terms[button.text] = terms
+    glossary_terms[letter] = terms
+    # Exibe o número total de termos coletados
+    print(f'\tTermos coletados para a letra {letter}: {len(terms)}')
 
 # Cria um arquivo JSON para armazenar os termos do glossário
 glossary_terms_json = json.dumps(glossary_terms, indent=2, ensure_ascii=False)
 # Salva os termos do glossário em um arquivo JSON no diretório data
-with open('../data/raw_data_glossary.json', 'w', encoding='utf-8') as file:
+with open('data/raw_data_glossary.json', 'w', encoding='utf-8') as file:
     file.write(glossary_terms_json)
 
 # Fecha o navegador, encerrando o web driver
