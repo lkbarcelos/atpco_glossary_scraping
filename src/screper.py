@@ -4,7 +4,6 @@ from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 from fake_useragent import UserAgent
 import json
-print('xx')
 
 # User egent aleatório, evitando a detecção do robô
 ua = UserAgent(os='windows', browsers=['chrome'], min_percentage=2.0)
@@ -62,4 +61,7 @@ glossary_terms_json = json.dumps(glossary_terms, indent=2, ensure_ascii=False)
 # Salva os termos do glossário em um arquivo JSON no diretório data
 with open('../data/raw_data_glossary.json', 'w', encoding='utf-8') as file:
     file.write(glossary_terms_json)
+
+# Fecha o navegador, encerrando o web driver
+driver.quit()
 
