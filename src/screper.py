@@ -51,7 +51,7 @@ for button in letter_buttons:
         # Captura o texto do conteúdo da definição do card
         definition = card.find_element(By.CLASS_NAME, 'definition-main').text
         # Adiciona o termo e sua definição ao dicionário de termos
-        terms[term] = definition
+        terms[term] = {'definição': definition}
 
     # Adiciona os termos da letra atual ao dicionário principal
     glossary_terms[button.text] = terms
