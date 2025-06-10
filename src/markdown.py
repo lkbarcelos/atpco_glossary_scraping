@@ -15,10 +15,11 @@ for letter, terms in raw_data.items():
             try:
                 # Acessa a definição traduzida do termo
                 translated_definition = translated_data[letter][term]['definition (pt-br)']
+                raw_definition = definition['definition']
                 # Adiciona o termo e a definição à string consolidada
                 consolidated_string += f'\n### {term} '
-                consolidated_string += f'\n-**definition:**{definition} '
-                consolidated_string += f'\n-**definition (pt-br):**{translated_definition} \n'
+                consolidated_string += f'\n- **definition:** {raw_definition} '
+                consolidated_string += f'\n- **definition (pt-br):** {translated_definition} \n'
             except KeyError:
                 print(f'Erro ao acessar a chave "{term}" no dicionário translated_data.')
 
