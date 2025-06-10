@@ -1,0 +1,2433 @@
+{
+  "A": {
+    "A4A": {
+      "definition (pt-br)": "Airlines for America (Companhias Aéreas para a América)."
+    },
+    "accompanied passenger": {
+      "definition (pt-br)": "O passageiro viajando com a tarifa que está sendo validada e que é obrigado a viajar com outro passageiro."
+    },
+    "Accompanied Travel": {
+      "definition (pt-br)": "Categoria 13. Qualifica que a viagem com um ou mais passageiros é necessária para se qualificar para a tarifa. Por exemplo, exigir que alguém viaje com um pai, tutor ou outro tipo de passageiro."
+    },
+    "accompanying passenger": {
+      "definition (pt-br)": "O passageiro que está viajando com o passageiro na tarifa que está sendo validada."
+    },
+    "account code": {
+      "definition (pt-br)": "Um código exclusivo atribuído por cada transportadora que identifica um programa de tarifas específico contratado com uma empresa para essa transportadora. As transportadoras podem ter vários códigos de conta para uma única empresa."
+    },
+    "accountable document": {
+      "definition (pt-br)": "Um documento de passageiro vendido, como uma passagem ou uma Ordem de Cobrança Diversa."
+    },
+    "ACH": {
+      "definition (pt-br)": "Airlines Clearing House (Câmara de Compensação das Companhias Aéreas)."
+    },
+    "action code": {
+      "definition (pt-br)": "Um código no sistema de Tarifas que indica o tipo de alteração que está sendo aplicada a uma transação dentro de um lote de tarifas."
+    },
+    "add-on": {
+      "definition (pt-br)": "Um valor usado apenas com tarifas internacionais especificadas/publicadas para a construção de tarifas internacionais construídas/não publicadas. (Também conhecido como tarifa arbitrária ou proporcional.)"
+    },
+    "add-on category": {
+      "definition (pt-br)": "Categoria 105, usada para definir as condições de regra para a construção de tarifas não publicadas (construídas). Não usado pelo processo automatizado de construção de tarifas da ATPCO."
+    },
+    "add-on zone": {
+      "definition (pt-br)": "Um componente de um registro de add-on que define a área geográfica da tarifa publicada com a qual o add-on irá construir. Aplica-se apenas a tarifas internacionais."
+    },
+    "adjusted offers": {
+      "definition (pt-br)": "Ofertas dinâmicas criadas quando um mecanismo de preços dinâmicos usa a lógica de negócios exclusiva de uma companhia aérea para aplicar ajustes de preços dinâmicos ou ajustes de produtos a preços e produtos predefinidos. Com ofertas ajustadas, os humanos são auxiliados pela ciência, como inteligência artificial e aprendizado de máquina. Existem ajustes dinâmicos feitos no preço ou conteúdo no momento da solicitação de compra com base nas regras de negócios internas de cada companhia aérea, aproveitando a ciência para preços e ofertas de precisão."
+    },
+    "ADM": {
+      "definition (pt-br)": "Agency debit memo (memorando de débito da agência); um aviso de uma companhia aérea para uma agência de viagens de que ocorreu um erro na remessa e que o dinheiro é devido."
+    },
+    "ADP": {
+      "definition (pt-br)": "Administration Page (Página de Administração); usado no faturamento."
+    },
+    "ADR": {
+      "definition (pt-br)": "Administration Record (Registro de Administração); usado no faturamento."
+    },
+    "ADS": {
+      "definition (pt-br)": "Application Development System (Sistema de Desenvolvimento de Aplicações)."
+    },
+    "ADSO": {
+      "definition (pt-br)": "Application Development System Online (Sistema de Desenvolvimento de Aplicações Online)."
+    },
+    "adult": {
+      "definition (pt-br)": "Uma pessoa que atingiu seu décimo segundo aniversário na data de início da viagem."
+    },
+    "Advanced Reservations/Ticketing": {
+      "definition (pt-br)": "Categoria 5. Define os requisitos de reservas e emissão de passagens que são aplicáveis a uma tarifa. Por exemplo, com quanta antecedência uma passagem deve ser comprada."
+    },
+    "advanced subscriptions": {
+      "definition (pt-br)": "O assinante da tarifa recebe páginas de tarifas em formato de folhas soltas por correio ou entrega expressa assim que as alterações são feitas e as páginas de tarifas são impressas e arquivadas. Este processo ocorre diariamente."
+    },
+    "Agency Discounts": {
+      "definition (pt-br)": "Categoria 21. Fornece um valor de tarifa específico ou as informações para calcular uma tarifa, conforme definido em uma regra, para qualificar um agente para um desconto. Por exemplo, agentes de viagens voam por um determinado preço."
+    },
+    "agent": {
+      "definition (pt-br)": "Aquele que age ou representa outro. A ATPCO é um agente legal autorizado a fazer registros e distribuir dados em nome das transportadoras designadas."
+    },
+    "aggregate data": {
+      "definition (pt-br)": "Dados de alto nível que foram resumidos e anonimizados. Veja também dados granulares."
+    },
+    "aggregator": {
+      "definition (pt-br)": "Uma entidade que coleta itens relacionados de conteúdo e os exibe ou os vincula."
+    },
+    "AI": {
+      "definition (pt-br)": "Inteligência Artificial."
+    },
+    "AI agent": {
+      "definition (pt-br)": "Uma ferramenta de software que coleta dados, analisa-os e age para atingir metas específicas com intervenção humana mínima. Os exemplos incluem assistentes virtuais, chatbots, detecção de fraudes, monitoramento de preços de voos e até mesmo reserva de voos pesquisando as melhores opções com base nas preferências de um viajante."
+    },
+    "AIRIMP": {
+      "definition (pt-br)": "ATA & IATA Reservations Interline Message Procedures – Passenger (Procedimentos de Mensagem Interline de Reservas ATA & IATA – Passageiro)."
+    },
+    "Airline Catalog": {
+      "definition (pt-br)": "Um tipo de Catálogo de Produtos, o Catálogo da Companhia Aérea tem como objetivo ser usado para o propósito da própria companhia aérea (como a criação de ofertas) e significa uma lista de produtos e serviços ou itens que podem ser oferecidos por essa companhia aérea. A profundidade de detalhes fornecida no catálogo depende dos requisitos e casos de uso de cada companhia aérea individual. Também conhecido como Catálogo de Produtos Próprio da Companhia Aérea."
+    },
+    "Airline Profile": {
+      "definition (pt-br)": "Um tipo de Catálogo de Produtos, o Perfil da Companhia Aérea tem como objetivo apoiar o varejista da companhia aérea a gerenciar o volume e os tipos de solicitações que recebem, filtrando as consultas que não podem ser atendidas e significa as informações que um Vendedor solicita a uma Companhia Aérea periodicamente sobre os produtos e serviços, ou sobre essa Companhia Aérea."
+    },
+    "airline-defined tax": {
+      "definition (pt-br)": "Códigos de impostos que são especificados pela companhia aérea e não atribuídos pela IATA TTBS."
+    },
+    "alignment": {
+      "definition (pt-br)": "Uma parte do trabalho de padronização que envolve uma mudança no processamento por pelo menos um dos consumidores do padrão."
+    },
+    "all adds": {
+      "definition (pt-br)": "Uma cópia completa de um produto de assinatura de dados da ATPCO que é usado pelos assinantes para inicializar seu banco de dados antes de processar alterações ou atualizações. All adds contém dados efetivos e dados efetivos futuros."
+    },
+    "All Other Discounts": {
+      "definition (pt-br)": "Categoria 22. Fornece um valor de tarifa específico ou as informações para calcular uma tarifa, conforme definido em uma regra, para qualificar todos os outros tipos de passageiros que não sejam crianças, guias de turismo ou agentes para um desconto. Por exemplo, militares ou viajantes corporativos voam por um determinado preço."
+    },
+    "AllFares": {
+      "definition (pt-br)": "Uma unidade de dados que contém tarifas internacionais e domésticas mundiais, add-ons, notas de rodapé, regras e dados de roteamento, mas não inclui viagens de ou para os mercados canadenses ou americanos."
+    },
+    "ALT GEN": {
+      "definition (pt-br)": "Ver regra determinante alternativa."
+    },
+    "alternate governing rule": {
+      "definition (pt-br)": "Uma regra determinante que se aplica somente quando especificamente invocada pela regra de tarifa. As regras determinantes alternativas não são referenciadas no Registro 0. Também chamada de regra geral alternativa."
+    },
+    "amendment to application": {
+      "definition (pt-br)": "Qualquer alteração feita a um SPA/STPA após o envio do pedido ao DOT/CTA, mas antes de ser processado."
+    },
+    "Amenities": {
+      "definition (pt-br)": "Um tipo de conteúdo rico do Routehappy, os dados de Amenities descrevem as características da experiência a bordo, incluindo o espaço/tipo do assento, Wi-Fi, energia e entretenimento, em dados padronizados que podem ser comparados com outras ofertas. Veja também UTA e UPA."
+    },
+    "analytics-as-a-service": {
+      "definition (pt-br)": "Ferramentas, experiência e recursos de análise baseados na nuvem que um terceiro fornece por meio de um modelo de assinatura."
+    },
+    "ancillary revenue": {
+      "definition (pt-br)": "Receita de fontes não relacionadas a passagens, como taxas de bagagem e alimentos e serviços a bordo, que se tornou um componente financeiro importante para as companhias aéreas devido às margens operacionais reduzidas."
+    },
+    "ancillary services": {
+      "definition (pt-br)": "Serviços e produtos associados a uma tarifa, produto ou oferta; inclui itens como produtos baseados em comissão, malas despachadas e assentos atribuídos."
+    },
+    "APEX": {
+      "definition (pt-br)": "Advance purchase excursion fare (Tarifa de excursão com compra antecipada)."
+    },
+    "API": {
+      "definition (pt-br)": "Application Programming Interface (Interface de Programação de Aplicações)."
+    },
+    "APIS": {
+      "definition (pt-br)": "Advance Passenger Information System (Sistema de Informações Antecipadas sobre Passageiros), um sistema de intercâmbio eletrônico de dados amplamente utilizado que permite que as companhias aéreas transmitam informações sobre viajantes para a Alfândega e Proteção de Fronteiras dos EUA (CBP)."
+    },
+    "applet": {
+      "definition (pt-br)": "Um pequeno aplicativo que executa uma tarefa específica, normalmente executado sob o controle de um aplicativo maior, como um navegador da web."
+    },
+    "Application and Other Conditions": {
+      "definition (pt-br)": "Categoria 50. Usada em todas as regras, esta categoria contém o título da regra, a aplicação geográfica, as limitações de capacidade, as regras não aplicáveis, os tipos de viagem/tipos de transporte e outras condições apenas para fins de exibição. Por exemplo, quem pode usar a tarifa, a qual rota ela se aplica, etc. Esta categoria não tem impacto na precificação do itinerário."
+    },
+    "application number": {
+      "definition (pt-br)": "Um número atribuído pelo EFS a um SPA/STPA quando é enviado ao DOT/CTA."
+    },
+    "apply": {
+      "definition (pt-br)": "Um tipo de ação em lote no sistema de Tarifas equivalente a Atualizar. Esta ação cria um lote, envia os resultados através do processo de validação e aplica as transações ao banco de dados."
+    },
+    "approval number": {
+      "definition (pt-br)": "Um número atribuído por um governo que indica a aprovação de um SPA/STPA pelo governo."
+    },
+    "arbitraries": {
+      "definition (pt-br)": "As tarifas (ou taxas) que podem ser combinadas com uma tarifa internacional (ou taxa) publicada para um gateway para criar uma tarifa direta. As tarifas arbitrárias não podem ser vendidas separadamente para viagens e geralmente são publicadas entre pontos dentro do mesmo país. Também referidas como add-ons ou proporcionais."
+    },
+    "arbitrary bucket": {
+      "definition (pt-br)": "O texto que define a combinabilidade da classe tarifária. Os buckets arbitrários podem ser específicos da classe tarifária, genéricos (como A***** e B*****) ou padrão (******). O bucket padrão é frequentemente referido como o bucket negativo ou de seis estrelas."
+    },
+    "arbitrary zone": {
+      "definition (pt-br)": "Aplicável apenas a tarifas internacionais, uma zona é um componente de um registro de add-on que define a área geográfica da tarifa publicada com a qual o add-on será construído."
+    },
+    "ARC": {
+      "definition (pt-br)": "Airlines Reporting Corporation (Corporação de Relatórios de Companhias Aéreas)."
+    },
+    "area": {
+      "definition (pt-br)": "A IATA divide o mundo em três áreas, também conhecidas como Conferências de Tráfego (TC): Área 1: Hemisfério Ocidental Área 2: Europa, África, Oriente Médio Área 3: Ásia, Pacífico"
+    },
+    "ARINC": {
+      "definition (pt-br)": "Aeronautical Radio Incorporated (Rádio Aeronáutica Incorporada)."
+    },
+    "ASCII": {
+      "definition (pt-br)": "American Standard Code for Information Interchange (Código Padrão Americano para Intercâmbio de Informações)."
+    },
+    "ASK": {
+      "definition (pt-br)": "Available seat kilometers (Assentos-quilômetro disponíveis); uma medida da indústria de capacidade, calculada multiplicando o número total de assentos pela distância do voo."
+    },
+    "ASM": {
+      "definition (pt-br)": "Available seat miles (Assentos-milhas disponíveis); uma medida da indústria de capacidade, calculada multiplicando o número total de assentos pela distância do voo."
+    },
+    "ASN": {
+      "definition (pt-br)": "Aviso de embarque avançado (ASN), uma mensagem eletrônica enviada de um fornecedor para um comprador para informá-lo sobre uma entrega futura."
+    },
+    "assembed data feed": {
+      "definition (pt-br)": "Uma assinatura ATPCO que fornece dados mesclados de preços e restrições para apoiar os processos de preços, gerenciamento de receita e inteligência da companhia aérea. Este conjunto de dados estruturado calcula os valores totais dos preços e simplifica a agregação de dados (ou análise) combinando as regras tarifárias aplicáveis com os pontos de preço."
+    },
+    "assembly point": {
+      "definition (pt-br)": "Um ponto no itinerário onde todo o grupo qualificado se reúne e inicia o transporte como um grupo."
+    },
+    "ATC": {
+      "definition (pt-br)": "Air Traffic Conference (Conferência de Tráfego Aéreo)."
+    },
+    "ATI": {
+      "definition (pt-br)": "Anti-Trust Immunity (Imunidade Antitruste). Permite que duas ou mais companhias aéreas coordenem tarifas, estratégia de preços, horários e outros aspectos comerciais e operacionais, e permite que as companhias aéreas compartilhem receita. Isso requer aprovação explícita dos governos para implementar."
+    },
+    "atomic product": {
+      "definition (pt-br)": "Opções de configuração abertas Qualquer item que possa ser oferecido a um cliente (como transporte aéreo, porções de transporte, quaisquer bens ou comodidades). Por exemplo, um produto atômico pode ser o serviço de transporte real (direito de viajar), um produto físico (como assentos e refeições) ou um produto virtual (como flexibilidade e embarque prioritário). Também chamado de produto."
+    },
+    "ATPCO": {
+      "definition (pt-br)": "Airline Tariff Publishing Company (Companhia de Publicação de Tarifas Aéreas). Uma corporação de propriedade de várias companhias aéreas formada para servir como agente para esses proprietários (e para outras companhias aéreas ou fornecedores) para registrar e publicar tarifas e produtos relacionados."
+    },
+    "ATPCO Proprietary Standards": {
+      "definition (pt-br)": "Padrões técnicos proprietários estabelecidos por Consenso para fornecer resultados consistentes para a automação de preços e varejo em todo o ecossistema de viagens. Estes incluem os seguintes documentos: · Dicionário de Dados, compreendendo layouts de arquivo, descrições de campo, edições de validação e descrições abreviadas de processamento (Padrão de Interface) · Códigos de referência da indústria usados no processamento (Apêndices) · Descrições completas do processamento de dados (correspondência e aplicação) para produzir um resultado consistente de preços ou varejo (Padrão de Processamento) · Manutenção de dados (carregamento, armazenamento, gerenciamento de dados)"
+    },
+    "ATPCO taxonomy": {
+      "definition (pt-br)": "Códigos de taxonomia de Serviços Opcionais padrão ATPCO organizados em níveis hierárquicos que podem ser usados para definir e classificar um produto dentro de um conjunto de parâmetros definidos. A Taxonomia permite a identificação, classificação e comparação de produtos. Observe que o Catálogo da Companhia Aérea e o Catálogo de Fornecedores oferecem suporte aos níveis de Grupo, Subgrupo e Descrições 1 e 2."
+    },
+    "ATR": {
+      "definition (pt-br)": "Air Transportation Regulations (Regulamentos de Transporte Aéreo)."
+    },
+    "attribute": {
+      "definition (pt-br)": "Dados sobre opções a bordo, além de benefícios e restrições de tarifas que permitem que as telas de compras apresentem ofertas que podem ser filtradas por essas características, como assentos, Wi-Fi e privilégios de prioridade."
+    },
+    "authorizing airline": {
+      "definition (pt-br)": "Um membro ZED/MIBA através do qual os benefícios de viagem com desconto para funcionários são derivados. A menos que haja um acordo para um terceiro emitir bilhetes ZED/MIBA, esta é a companhia aérea que faz a emissão dos bilhetes e, portanto, faz o preço das tarifas ZED/MIBA."
+    },
+    "Automated Refunds": {
+      "definition (pt-br)": "Categoria 33 de Regras Automatizadas da ATPCO que automatiza o processamento de regras e restrições que regem reembolsos para bilhetes."
+    },
+    "Automated Reissues": {
+      "definition (pt-br)": "Categoria 31 de Regras Automatizadas da ATPCO que automatiza o processamento de regras e restrições que regem as trocas de bilhetes."
+    },
+    "automated ticket machine": {
+      "definition (pt-br)": "Máquina de quiosque de emissão de bilhetes."
+    },
+    "autopricing": {
+      "definition (pt-br)": "Um processo automatizado usado para precificar um bilhete sem intervenção humana, o autopricing é a capacidade de um GDS fornecer tarifas elegíveis para o itinerário de um passageiro, processando programaticamente os dados codificados nas regras e notas de rodapé."
+    },
+    "availability": {
+      "definition (pt-br)": "A quantidade de inventário que não está atualmente reservada é mostrada em uma tela de disponibilidade."
+    }
+  },
+  "B": {
+    "backend": {
+      "definition (pt-br)": "Um ajuste após o BSP/ARC ter reportado à companhia aérea. Também chamado de pós-relatório."
+    },
+    "baggage allowance": {
+      "definition (pt-br)": "Uma disposição que rege o número de peças ou o peso da bagagem que pode ser transportada gratuitamente."
+    },
+    "baggage charges": {
+      "definition (pt-br)": "Uma disposição que rege a cobrança para bagagem e itens especiais que não se enquadram na franquia de bagagem do passageiro."
+    },
+    "Banker’s Selling Rate": {
+      "definition (pt-br)": "Usada durante a transferência de fundos através de canais bancários, a taxa na qual um banco venderá uma determinada quantia de moeda estrangeira em troca de uma unidade da moeda nacional do país em que a transação de câmbio ocorre."
+    },
+    "base amount": {
+      "definition (pt-br)": "1. Um valor que representa a maior tarifa local de venda usada em certos mercados sob o Acordo Multilateral de Rateio da IATA. Os valores base são publicados no Manual de Rateio da IATA—Passageiro (PMP). 2. Uma tarifa base usada na Categoria 25 como uma ferramenta de cálculo para produzir valores Líquidos ou de Venda."
+    },
+    "base fare": {
+      "definition (pt-br)": "1. O valor da tarifa excluindo impostos e outras taxas. No entanto, as taxas resultantes de Stopovers (Categoria 8), Transfers (Categoria 9) e/ou Surcharges (Categoria 12) estão incluídas na tarifa base. Este valor aparece na porção \"fare\" (tarifa) da Fare Box (caixa de tarifa) na passagem. 2. Uma tarifa ou tarifas usadas como base para calcular outros valores de tarifa para criar uma tarifa resultante na Categoria 25 ou nas Categorias 19–22. Este pode também ser o valor da tarifa registrado no Registro de Tarifa."
+    },
+    "batch": {
+      "definition (pt-br)": "Uma unidade de trabalho contendo um grupo de transações que são inseridas e liberadas para o arquivo, usada para descrever um conjunto de instruções que estão sendo implementadas. Cada batch é identificado por um código alfanumérico de 2 caracteres (baseado no ID de batch do usuário) mais um número de controle atribuído pelo sistema. O cabeçalho do batch especifica o número da proposta, tarifa, transportadora, data de validade das transações e o status do batch (público, privado ou incompleto). Veja também batch processing (processamento em lote)."
+    },
+    "batch number": {
+      "definition (pt-br)": "Um número precedido pelo código de identificação alfanumérico do compilador ou da companhia aérea e atribuído sequencialmente pelo computador. Este número vai em uma folha de lote ou é usado online para ser associado a um grupo de atualizações ou transações."
+    },
+    "batch sheet": {
+      "definition (pt-br)": "A folha de rosto de um trabalho offline de computador usado para identificar o programa e a pessoa que solicita o trabalho."
+    },
+    "batch status": {
+      "definition (pt-br)": "Este status se aplica a todas as transações em um lote online. Sempre que você libera um lote para atualizar o arquivo mestre, você atribui um status a esse lote. Os três tipos de status são público, privado e incompleto. Existem também termos de status de implementação associados aos lotes: hold until nightly (manter até a noite), next (próximo) e secured (seguro)."
+    },
+    "BCET": {
+      "definition (pt-br)": "Tabela de Exceção de Código de Reserva."
+    },
+    "BCON": {
+      "definition (pt-br)": "Construção de Lote. Skeletals (registros individuais que permitem que uma construção ocorra) usados no processo de construção de tarifa."
+    },
+    "bid pricing": {
+      "definition (pt-br)": "Um tipo de precificação contínua onde as companhias aéreas ligam seus sistemas de gestão de receita diretamente à determinação de preços."
+    },
+    "bilateral agreements": {
+      "definition (pt-br)": "Um acordo entre duas nações sobre níveis de taxa ou tarifa. Isto, em alguns casos, substitui os requisitos normais de registro para o DOT (Departamento de Transportes dos EUA). Também se refere a acordos de rateio especiais entre duas companhias aéreas."
+    },
+    "billing and settlement": {
+      "definition (pt-br)": "Conclusão financeira da transação que garante que a companhia aérea que executa o serviço recebe os fundos pela companhia aérea que vende o serviço."
+    },
+    "Blackout Dates": {
+      "definition (pt-br)": "Categoria 11. Define datas únicas ou intervalos de datas quando a viagem não é permitida. Por exemplo, durante feriados ou períodos de pico de viagens."
+    },
+    "blank screen": {
+      "definition (pt-br)": "Uma função que permite que novas tarifas sejam adicionadas a um lote de tarifas."
+    },
+    "blockchain": {
+      "definition (pt-br)": "Um banco de dados de blocos selados armazenados em cadeias de transações que são mantidas por muitos computadores em uma rede peer-to-peer. Por exemplo, as criptomoedas usam blockchain para manter registros seguros de transações."
+    },
+    "booking": {
+      "definition (pt-br)": "A reserva de uma tarifa ou produto de taxa para um itinerário por um cliente."
+    },
+    "booking code": {
+      "definition (pt-br)": "Uma ou duas letras que funcionam como um código de controle de inventário. Também chamado de designador de reserva (RBD) ou código de reserva primário, especifica a classe de serviço em que um passageiro deve ser reservado para receber a tarifa."
+    },
+    "BPO": {
+      "definition (pt-br)": "Terceirização de Processos de Negócios (Business Process Outsourcing)."
+    },
+    "branded fare": {
+      "definition (pt-br)": "Tarifas que são diferenciadas além do preço, sendo combinadas com outros recursos e organizadas em produtos reconhecíveis pelo consumidor com ofertas de serviço distintas, ou seja, atribuição/upgrade de assento, bagagem despachada, reembolsabilidade da passagem, bagagem de mão, serviços prioritários, refeições e bebidas, acúmulo de milhas, lounge, upgrades, entretenimento a bordo, Wi-Fi."
+    },
+    "Branded Fares": {
+      "definition (pt-br)": "Produto que permite que as companhias aéreas agrupem e nomeiem tarifas por famílias de tarifas, tipos de tarifas ou outros critérios e suporta o desenvolvimento de receita auxiliar."
+    },
+    "BSP": {
+      "definition (pt-br)": "Plano de Liquidação de Faturamento (Billing Settlement Plan); a entidade da IATA responsável por liquidar fundos e relatar informações contábeis entre a agência de viagens e a companhia aérea para tarifas vendidas fora dos Estados Unidos, bem como para controlar o estoque de passagens contábeis. Os BSPs são geralmente organizados por país."
+    },
+    "BSP method": {
+      "definition (pt-br)": "Na codificação da Categoria 35, um valor ATPCO de 1–5 ou em branco usado para descrever ao assinante qual procedimento de Relatório de Remessa Líquida deve ser usado no momento da emissão da passagem. Os cinco tipos de método disponíveis na Categoria 35 são baseados nos sete tipos de método estabelecidos pela IATA."
+    },
+    "BSR": {
+      "definition (pt-br)": "Taxa de Venda do Banqueiro (Banker’s Selling Rate)."
+    },
+    "BUC": {
+      "definition (pt-br)": "Taxa de Unitização a Granel (Bulk Unitization Charge)."
+    },
+    "bucket": {
+      "definition (pt-br)": "Veja bucket arbitrário."
+    },
+    "bucket (inventory)": {
+      "definition (pt-br)": "Um número na exibição de inventário que mostra quantos assentos por RBD estão disponíveis em cada voo. Este número é um único dígito; 9 é o padrão."
+    },
+    "bulletin": {
+      "definition (pt-br)": "Ver notificação. Um método primário de comunicação entre a ATPCO e os clientes. As notificações são enviadas por e-mail aos participantes sempre que os boletins são publicados no site extranet do Customer Center."
+    },
+    "bundle": {
+      "definition (pt-br)": "Uma prática de varejo em muitas indústrias onde os produtos são agrupados para criar um pacote de valor agregado para aumentar a venda cruzada, o upselling e a fidelidade do cliente, em última análise, para aumentar a receita. Em nossa indústria, é um Produtos atômicos (serviços ou itens) definidos individualmente que são agrupados para formar um pacote de serviços e/ou itens atômicos a serem entregues a um consumidor. Uma marca é um tipo de pacote. A tarifa tradicional e os dados relacionados (tarifa, flexibilidade de alteração, flexibilidade de reembolso e flexibilidade de stopover) são um tipo de pacote. Veja também pacote dinâmico."
+    },
+    "bundled fare": {
+      "definition (pt-br)": "Qualquer tarifa, pública ou privada, que inclua todos os impostos e taxas como parte de seu preço distribuído. Veja também tarifas desagregadas."
+    },
+    "bundled normal economy fare": {
+      "definition (pt-br)": "A tarifa de ida e volta mais baixa disponível para serviço irrestrito e sob demanda em qualquer mercado de par de cidades."
+    },
+    "business intelligence": {
+      "definition (pt-br)": "O processo e a prática de transformar dados de um ambiente de produção em informações acionáveis para melhorar o desempenho da empresa."
+    },
+    "Business Request": {
+      "definition (pt-br)": "Um mecanismo pelo qual os clientes podem enviar problemas de negócios para a ATPCO avaliar, priorizar adequadamente e resolver com uma solução industrial apropriada."
+    },
+    "byte": {
+      "definition (pt-br)": "Uma porção de um campo em um banco de dados eletrônico."
+    }
+  },
+  "C": {
+    "CAA": {
+      "definition (pt-br)": "Autoridade de Aviação Civil."
+    },
+    "CAB": {
+      "definition (pt-br)": "Conselho de Aeronáutica Civil."
+    },
+    "caching": {
+      "definition (pt-br)": "O processo de armazenar dados de inventário em um repositório temporário (cache) para cotação de tarifas. O caching reduz a troca de mensagens entre o banco de dados de inventário de uma companhia aérea e um sistema de cotação de tarifas quando as consultas são feitas para fins de pesquisa. Este processo é ignorado quando a tarifa cotada é transformada em um PNR."
+    },
+    "calculate": {
+      "definition (pt-br)": "Um programa de computador que pode adicionar, cancelar, copiar ou revisar grupos de tarifas ou taxas."
+    },
+    "CAR code": {
+      "definition (pt-br)": "Código de Referência de Acordo Comercial. Um acordo entre companhias aéreas e agentes específicos usado no Net Reporting."
+    },
+    "carrier": {
+      "definition (pt-br)": "Conforme definido pela ATPCO, uma companhia aérea é geralmente uma linha aérea (regular ou fretada), mas também pode ser uma empresa ferroviária ou locadora de veículos. É o proprietário ou provedor de serviços de uma tarifa e é identificado por um código alfanumérico padrão da indústria."
+    },
+    "Carrier-Imposed Fees": {
+      "definition (pt-br)": "Um método padronizado e automatizado de coleta, distribuição e precificação que fornece às companhias aéreas de marketing (companhias aéreas que aparecem no cupom de voo) a capacidade de controlar e coletar taxas no setor (cupom), na porção da viagem (vários setores) ou na jornada."
+    },
+    "CASK": {
+      "definition (pt-br)": "Custo por Quilômetro de Assento Médio. Uma medida de quão caro é para as companhias aéreas operarem qualquer rota específica. Isso é calculado dividindo o custo operacional por voo pelo número de ASKs disponíveis naquele voo em particular. Nos Estados Unidos, usa-se o CASM (Custo por Milha de Assento Médio)."
+    },
+    "CASM": {
+      "definition (pt-br)": "Custo por milha de assento disponível."
+    },
+    "CAT": {
+      "definition (pt-br)": "Carrier Accounting Tape (Fita de Contabilidade da Companhia Aérea); arquivo de transações contábeis enviado da ARC para as companhias aéreas participantes."
+    },
+    "cat": {
+      "definition (pt-br)": "Abreviação para categoria."
+    },
+    "category": {
+      "definition (pt-br)": "A estrutura dentro do sistema de Regras projetada para identificar vários tipos de informações restritivas sobre uma tarifa. As restrições são listadas no banco de dados FareManager Rules e são classificadas por várias categorias de aplicação, como dia/hora e estação de viagem.\n\n1. Elegibilidade\n2. Dia/Hora\n3. Sazonalidade\n4. Aplicação de Voo\n5. Reservas Antecipadas/Emissão de Bilhetes\n6. Estadia Mínima\n7. Estadia Máxima\n8. Stopovers\n9. Transfers\n10. Combinações Permitidas\n11. Datas de Blackout\n12. Taxas Adicionais\n13. Viagem Acompanhada\n14. Restrições de Viagem\n15. Restrições de Vendas\n16. Penalidades\n17. Ponto Intermediário/Milhagem Mais Alta\n18. Endossos de Bilhetes\n19. Descontos para Crianças\n20. Descontos para Condutores de Excursão\n21. Descontos para Agências\n22. Todos os Outros Descontos\n23. Disposições Diversas\n25. Tarifa por Regra\n26. Grupos\n27. Excursões\n28. Visitar Outro País\n29. Depósitos\n31. Alterações Voluntárias\n33. Reembolsos Voluntários\n35. Restrições de Tarifa Negociada\n50. Aplicação e Outras Condições"
+    },
+    "CATO": {
+      "definition (pt-br)": "Escritório Consolidado de Bilhetes Aéreos."
+    },
+    "CCF Subs": {
+      "definition (pt-br)": "Um produto de assinatura de dados da ATPCO que fornece aos assinantes novos códigos de operadora, cidade ou classe de tarifa e relacionamentos de cidade multi-aeroporto para validar antes de processar tarifas e produtos de assinatura relacionados."
+    },
+    "Change criteria": {
+      "definition (pt-br)": "Porção de critérios de uma consulta no sistema de Tarifas que é codificada para encontrar tarifas e adicionar, modificar, cancelar ou restaurá-las."
+    },
+    "Chart 1": {
+      "definition (pt-br)": "Contém informações de RBD para a companhia aérea proprietária da tarifa (além do RBD primário) e para as companhias aéreas secundárias que participam da tarifa. Esses dados fornecem exceções ao RBD primário. É o mesmo que Registro 6 Convenção 2."
+    },
+    "Chart 2": {
+      "definition (pt-br)": "Informações de RBD padrão para a companhia aérea de marketing que está no bilhete, mas não é proprietária da tarifa (o proprietário da tarifa pode ser um código de companhia aérea ou YY). Aplica-se ao transporte secundário na tarifa de outra companhia aérea ou ao transporte primário ou secundário em uma tarifa YY. É o mesmo que Registro 6 Convenção 1."
+    },
+    "check-in": {
+      "definition (pt-br)": "A interação do cliente com o sistema da companhia aérea operadora que torna a presença do cliente conhecida antes do voo ou serviço que foi pré-pago."
+    },
+    "child": {
+      "definition (pt-br)": "Uma pessoa que atingiu seu segundo aniversário, mas não seu décimo segundo aniversário na data do início da viagem a partir da origem da jornada."
+    },
+    "Children's Discounts": {
+      "definition (pt-br)": "Categoria 19. Fornece um valor de tarifa específico ou as informações para calcular uma tarifa, conforme definido em uma regra para qualificar um passageiro infantil para um desconto. Por exemplo, as crianças voam por um determinado preço."
+    },
+    "CICS": {
+      "definition (pt-br)": "Customer Information Control System (Sistema de Controle de Informações do Cliente). Um banco de dados de regras e informações de tarifas usado para precificação automatizada."
+    },
+    "circle trip": {
+      "definition (pt-br)": "1. (dois componentes, Subcategoria 102, Tarifas EUA/CA) Viagem do ponto A ao ponto B e retorno ao ponto A usando apenas dois componentes de tarifa. Pelo menos um componente de tarifa deve ser precificado usando metade de uma tarifa de ida e volta. Veja também combinações. 2. (mais de dois componentes, Subcategoria 103, Tarifas EUA/CA) Viagem em uma única unidade de precificação de um ponto e retorno a ele por uma rota contínua e sinuosa, usando tarifas aplicáveis de meia ida e volta. Pelo menos um componente de tarifa deve ser precificado usando metade de uma tarifa de ida e volta. Veja também combinações. 3. (Subcategoria 103, Tarifas Internacionais) Viagem em uma única unidade de precificação de um ponto e retorno a ele por uma rota contínua e sinuosa, usando tarifas aplicáveis de meia ida e volta. Circle Trip inclui unidades de precificação que compreendem dois componentes de tarifa que não atendem às condições da definição de ida e volta. Veja também ida e volta. Veja também combinações."
+    },
+    "citizen": {
+      "definition (pt-br)": "Uma pessoa que tem cidadania de um determinado país, seja por nascimento ou naturalização (também chamado de nacional)."
+    },
+    "clarification": {
+      "definition (pt-br)": "Um trabalho de padrões que envolve adições à redação que esclarecem a intenção do padrão existente, mas não exige que a ATPCO, nem qualquer consumidor dos dados, altere o processamento."
+    },
+    "CMOS": {
+      "definition (pt-br)": "Semicondutor de Óxido de Metal Complementar."
+    },
+    "CNN": {
+      "definition (pt-br)": "Criança acompanhada (geralmente de 2 a 11 anos)"
+    },
+    "code share": {
+      "definition (pt-br)": "A prática de colocar o número de voo de uma companhia aérea em um segmento que a companhia aérea não opera com sua própria aeronave. Isso permite que as companhias aéreas vendam espaço nos voos de outras companhias aéreas, expandindo a rede de uma companhia aérea."
+    },
+    "coding conventions": {
+      "definition (pt-br)": "Um conjunto de padrões manuais estabelecidos para fornecer consistência na codificação de dados. (Uma convenção de codificação não é uma edição de programação real.)"
+    },
+    "combination": {
+      "definition (pt-br)": "Sempre que duas ou mais tarifas de ida, volta ou meia volta são usadas e mostradas separadamente em um cálculo de tarifa. Veja circle trip, end-on-end, half-round-trip, open jaw e round-trip."
+    },
+    "concurrence": {
+      "definition (pt-br)": "Um acordo solicitado de uma companhia aérea por outra companhia aérea para fazer alterações tarifárias. Uma concordância geral (também chamada de pré-concordância) pode ser garantida antecipadamente para cobrir todas as alterações futuras."
+    },
+    "connection": {
+      "definition (pt-br)": "1. Quando um passageiro muda de avião dentro de um componente de tarifa, e a duração da mudança não é considerada um stopover (estabelecido pelas regras da companhia aérea ou padrão da indústria) (veja stopover). 2. Também conhecido como transfer. A capacidade de transferir passageiros, bagagem, carga ou correio de um voo para outro dentro de um período de tempo razoável. As conexões on-line dizem respeito a transferências entre voos da mesma designação de companhia aérea e conexões interline entre voos de diferentes designações de companhia aérea."
+    },
+    "consolidator": {
+      "definition (pt-br)": "Uma agência que negocia diretamente com as companhias aéreas. O consolidador pode ser visto como um corretor especializado em passagens aéreas e que faz negócios em nome das companhias aéreas. Um consolidador compra assentos em companhias aéreas contratantes para revenda a outras agências ou passageiros."
+    },
+    "constructed": {
+      "definition (pt-br)": "Termo da IATA para tarifas de passagem não especificadas criadas pelo uso de valores complementares, ou duas ou mais tarifas mostradas como um único valor em um cálculo de tarifa. (A ATPCO também se refere a isso como não publicado.)"
+    },
+    "continuous offers": {
+      "definition (pt-br)": "Ofertas dinâmicas criadas quando um motor de precificação/oferta dinâmica usa a lógica de negócios exclusiva de uma companhia aérea que não depende de preços e produtos predefinidos. Os produtos são escolhidos dinamicamente de um catálogo de ofertas potenciais. Os preços são determinados dinamicamente e podem ser escolhidos em uma faixa predeterminada ou por link direto para o sistema de gerenciamento de receita de uma companhia aérea. A ciência de dados avançada cria ofertas e preços em tempo real; as tarifas não são arquivadas e as ferramentas tradicionais de gerenciamento de tarifas são transferidas para sistemas de gerenciamento de ofertas e pedidos."
+    },
+    "contract of carriage": {
+      "definition (pt-br)": "Um acordo entre uma companhia aérea e um passageiro que lista todos os direitos e responsabilidades de cada parte."
+    },
+    "corporate ID codes": {
+      "definition (pt-br)": "Um código atribuído por cada CRS e GDS que identifica uma determinada corporação ou empresa para esse CRS ou GDS. Atualmente, os Códigos de ID Corporativo são usados no campo Código de Conta em Elegibilidade (Categoria 1) e Registro 8."
+    },
+    "coupon": {
+      "definition (pt-br)": "Veja flight coupon (cupom de voo)."
+    },
+    "criteria set": {
+      "definition (pt-br)": "Ferramenta do sistema de tarifas usada para visualizar, adicionar, modificar, restaurar e cancelar tarifas. Também é chamada de ferramenta de consulta."
+    },
+    "CRM": {
+      "definition (pt-br)": "Customer Relationship Management (Gestão de Relacionamento com o Cliente). Um processo de negócios de identificar, coletar e analisar detalhes do cliente para informar a tomada de decisões para desenvolvimento, marketing e vendas. Muitas companhias aéreas realizam essa tarefa por meio de programas de passageiro frequente."
+    },
+    "cross-selling": {
+      "definition (pt-br)": "Incentivar gastos adicionais, apresentando outros produtos ou serviços apropriados relacionados à compra existente do cliente (compare com upselling)."
+    },
+    "CRS": {
+      "definition (pt-br)": "Computer reservation system (Sistema de reservas computadorizado). Usados por agentes de viagens e outros em todo o mundo, esses sistemas recebem dados de tarifas codificados (que serão precificados eletronicamente) da ATPCO e os transmitem a seus clientes."
+    },
+    "CTA": {
+      "definition (pt-br)": "Agência de Transporte Canadense."
+    },
+    "CUSS": {
+      "definition (pt-br)": "Common Use Self Service (Autoatendimento de Uso Comum), refere-se aos quiosques de check-in de autoatendimento compartilhados"
+    },
+    "CUTE": {
+      "definition (pt-br)": "Common Use Terminal Equipment (Equipamento de Terminal de Uso Comum), o que significa que as companhias aéreas podem compartilhar balcões de check-in e o software usado para imprimir etiquetas de bagagem."
+    },
+    "CXR": {
+      "definition (pt-br)": "Abreviação para carrier (companhia aérea)."
+    }
+  },
+  "D": {
+    "data application": {
+      "definition (pt-br)": "As leis de processamento endossadas pela indústria que se aplicam aos dados da ATPCO para soluções de precificação de itinerários. O Data Application cria um padrão da indústria alinhando ATPCO, provedores de dados e assinantes de dados para uma precificação consistente de itinerários em toda a indústria."
+    },
+    "data collection": {
+      "definition (pt-br)": "O quadrante no ciclo de vida de uma tarifa onde as companhias aéreas enviam dados de tarifas e regras para a ATPCO."
+    },
+    "data distribution": {
+      "definition (pt-br)": "O quadrante no ciclo de vida de uma tarifa onde a ATPCO envia todos os dados de tarifas para todos os principais sistemas de precificação, agências de viagens online, outros fornecedores que vendem passagens para viajantes e governos."
+    },
+    "Data Distribution (G30)": {
+      "definition (pt-br)": "Diretório que controla quais organizações (assinantes) recebem quais dados públicos e privados da ATPCO para processamento. Agora substituído pelo aplicativo FareManager Distribution."
+    },
+    "Data Distribution Control (DDC)": {
+      "definition (pt-br)": "O substituto do G30 Distribution Control para dados de tarifas e regras. O DDC é um recurso fundamental da distribuição, onde os provedores de dados indicam quais assinantes são elegíveis para receber seus dados, e o acesso pode ser controlado no nível de Companhia Aérea, Tarifa e Regra."
+    },
+    "data owner": {
+      "definition (pt-br)": "A companhia aérea que possui os produtos tarifários."
+    },
+    "data provider": {
+      "definition (pt-br)": "A organização que contrata a ATPCO para arquivar tarifas, regras e outros dados em seus próprios arquivos sob seu próprio controle."
+    },
+    "data table": {
+      "definition (pt-br)": "Uma tabela usada para abrigar disposições de regras no sistema FareManager Rules. Veja também Registro 3."
+    },
+    "data table set": {
+      "definition (pt-br)": "Uma série de tabelas de dados dentro da string entre uma tabela de dados THEN para a próxima tabela de dados THEN ou tabela de dados ELSE."
+    },
+    "data table string": {
+      "definition (pt-br)": "Uma série de 1 a 200 números de tabelas de dados e os indicadores relacionais contidos no segmento recorrente do Registro 2."
+    },
+    "data table subset": {
+      "definition (pt-br)": "Uma série de tabelas de dados em uma string que podem ser independentes para validar o componente tarifário. Geralmente, isso é igual a uma tabela de Registro 3 quando as tabelas são encadeadas com OR. Também pode ser um grupo de tabelas que constituem uma unidade de pensamento quando há um indicador relacional AND. Os subconjuntos incluem as seguintes situações: THEN, AND THEN (quando a próxima tabela é OR e não há condição 'If'), THEN, IF THEN, AND, IF THEN, IF, AND THEN, AND, IF, AND ELSE, AND OR ELSE"
+    },
+    "data warehouse": {
+      "definition (pt-br)": "Uma arquitetura de software onde um banco de dados separado é dedicado ao suporte à decisão. Os dados são transferidos de sistemas de processamento de transações e integrados. Ele é organizado por cliente, não por data ou transação. Ele fornece informações de gerenciamento por meio de geradores de relatórios, ferramentas de consulta, ferramentas de acesso e recuperação de dados, servidores OLAP e sistemas de informações empresariais."
+    },
+    "database schema": {
+      "definition (pt-br)": "um esquema que descreve as tabelas e os campos correspondentes contidos em um banco de dados. Pode ser exibido como uma lista de tabelas que contêm cada uma uma sublista de campos juntamente com o tipo de dados associado. Mais comumente, no entanto, os esquemas de banco de dados são exibidos como diagramas visuais. As caixas representam tabelas individuais e as linhas mostram como as tabelas estão conectadas. Em alguns casos, essas linhas podem incluir pontas de seta para indicar o fluxo de dados. Os esquemas de banco de dados também podem incluir comentários que descrevem o propósito de cada tabela e campos individuais."
+    },
+    "date logic": {
+      "definition (pt-br)": "O tratamento programático de datas de vigência e descontinuação em registros, conforme exigido pelas regras de negócios de um produto (como se um produto permite ou não lacunas de data ou impede sobreposições de data)."
+    },
+    "Day/Time": {
+      "definition (pt-br)": "Categoria 2. Define horários e/ou dias em que a viagem é ou não permitida. Por exemplo, um dia específico da semana ou hora do dia."
+    },
+    "DBMS": {
+      "definition (pt-br)": "Sistema de Gerenciamento de Banco de Dados."
+    },
+    "DCS": {
+      "definition (pt-br)": "Sistema de controle de partida."
+    },
+    "DDC": {
+      "definition (pt-br)": "Controle de Distribuição de Dados."
+    },
+    "de facto": {
+      "definition (pt-br)": "Padrões que são baseados em fatos, mas não formalmente reconhecidos por lei."
+    },
+    "decision support": {
+      "definition (pt-br)": "Ver gerenciamento de tarifas."
+    },
+    "departure control system": {
+      "definition (pt-br)": "Um aplicativo de TI de companhia aérea que gerencia Check-In/Embarque e Controle de Carga para companhias aéreas em locais de aeroportos. Bagagem despachada, serviços opcionais, reemissões, reembolsos e até mesmo dados de tarifas/regras são exemplos de onde os dados da ATPCO são usados nesses aplicativos."
+    },
+    "Deposits": {
+      "definition (pt-br)": "Categoria 29. Indica se existem requisitos de depósito para se qualificar para uma tarifa. Por exemplo, valor do depósito, dias exigidos antes da emissão de bilhetes/viagem, reembolso das condições de depósito ou isenções para os requisitos de depósito."
+    },
+    "Design Team": {
+      "definition (pt-br)": "Grupos que trabalham em soluções iniciais e soluções detalhadas (padrões publicados) que resolvem solicitações de negócios prioritárias."
+    },
+    "destination": {
+      "definition (pt-br)": "Lugar final de parada da jornada, conforme mostrado no bilhete. Quando a palavra destino é usada em uma regra de tarifa, regra geral ou Regra 2, será necessário determinar a própria definição da companhia aérea."
+    },
+    "DIR": {
+      "definition (pt-br)": "Sistema de diretório."
+    },
+    "direct channel": {
+      "definition (pt-br)": "O processo de precificação e reserva de passagens dentro do próprio ambiente interno de uma companhia aérea, sem usar sistemas de precificação ou outros dados intermediados da indústria. Isso é mais comumente tratado por meio do site de uma transportadora, mas também pode ser feito por meio de uma central de atendimento ou em escritórios de passagens de aeroporto/cidade."
+    },
+    "direct connect": {
+      "definition (pt-br)": "Ver canal direto."
+    },
+    "direct flight": {
+      "definition (pt-br)": "Qualquer serviço de transporte com um único número de voo fazendo nenhuma, uma ou várias paradas intermediárias, incluindo mudança de bitola/funil e voos diretos."
+    },
+    "directional fare": {
+      "definition (pt-br)": "Tarifas que são publicadas com um indicador direcional (seja no registro de tarifa ou nota de rodapé). As tarifas direcionais são geralmente internacionais. Veja inbound e outbound."
+    },
+    "directional indicator": {
+      "definition (pt-br)": "Uma tag que determina a verdadeira origem e destino de uma tarifa ou aplicação de texto de suporte. Isso permite que os dados sejam armazenados de forma mais eficiente e exibe os dados em sua ordem verdadeira (do ponto A ao ponto B ou vice-versa)."
+    },
+    "directional market": {
+      "definition (pt-br)": "Duas cidades em um itinerário de viagem (pares de cidades)."
+    },
+    "directionality": {
+      "definition (pt-br)": "Uma tag usada no Registro 1 ou 2 para indicar que a disposição do Registro 3 se aplica apenas em uma determinada direção."
+    },
+    "directionality tag 1": {
+      "definition (pt-br)": "Uma tag usada no Registro 1 ou 2 para indicar que a disposição do Registro 3 se aplica da Localização 1 para a Localização 2."
+    },
+    "directionality tag 2": {
+      "definition (pt-br)": "Uma tag usada no Registro 1 ou 2 para indicar que a disposição do Registro 3 se aplica da Localização 2 para a Localização 1."
+    },
+    "directionality tag 3": {
+      "definition (pt-br)": "Uma tag usada no Registro 1 ou 2 para indicar que a disposição do Registro 3 se aplica para viagens originárias na Localização 1."
+    },
+    "directionality tag 4": {
+      "definition (pt-br)": "Uma tag usada no Registro 1 ou 2 para indicar que a disposição do Registro 3 se aplica para viagens originárias na Localização 2."
+    },
+    "directory": {
+      "definition (pt-br)": "O sistema de computador de dados de referência comum a quase todas as áreas da empresa. Alguns exemplos são nomes e códigos de transportadoras, cidades e países (encontrados no nível G do diretório); classes de tarifas (encontradas no nível P do diretório); e tipos de taxas (encontrados no nível C do diretório)."
+    },
+    "discontinue date": {
+      "definition (pt-br)": "A última data em que um segmento está em vigor."
+    },
+    "discounted passenger": {
+      "definition (pt-br)": "O passageiro viajando com uma tarifa com desconto que requer outro passageiro de tarifa integral. Também conhecido como passageiro acompanhado."
+    },
+    "DISH": {
+      "definition (pt-br)": "Manual de Padrões de Intercâmbio de Dados, o guia definitivo de padrões de arquivos e especificações para o arquivo BSP HOT."
+    },
+    "distributed data": {
+      "definition (pt-br)": "todos os dados de tarifas e relacionados a tarifas distribuídos pela ATPCO por meio de APIs, calculadoras, produtos de dados e análises."
+    },
+    "domestic": {
+      "definition (pt-br)": "Viagem dentro de um estado soberano ou dentro de um único país."
+    },
+    "domestic US/CA fares": {
+      "definition (pt-br)": "Tarifas publicadas dentro dos Estados Unidos, dentro do Canadá ou entre os Estados Unidos e o Canadá. Inclui viagens entre as Ilhas Virgens Americanas e Porto Rico e EUA/CA. Também chamadas de tarifas locais."
+    },
+    "DOT": {
+      "definition (pt-br)": "Departamento de Transporte. Uma divisão do governo federal dos EUA que governou e regulamentou a indústria aérea desde que absorveu o CAB em 1º de janeiro de 1985. Ele regulamenta todas as tarifas internacionais e EUA/CA e taxas de carga."
+    },
+    "DPE": {
+      "definition (pt-br)": "Motor de precificação dinâmica."
+    },
+    "DPE generated pricing": {
+      "definition (pt-br)": "Um tipo de precificação ajustada onde o DPE determina o preço ideal no momento da compra/precificação e ajusta um preço pré-distribuído."
+    },
+    "DPE predetermined pricing": {
+      "definition (pt-br)": "Um tipo de precificação ajustada onde o DPE determina o preço ideal a partir de um conjunto de preços predefinidos (pré-distribuídos). As companhias aéreas predefinem e distribuem todos os pontos de preço possíveis antecipadamente. Esses preços só estão disponíveis quando recebidos em uma resposta aplicável do DPE da companhia aérea."
+    },
+    "DSS": {
+      "definition (pt-br)": "Sistema de suporte à decisão."
+    },
+    "dual RBD": {
+      "definition (pt-br)": "Mecanismo contínuo de precificação dinâmica onde as companhias aéreas podem aumentar os pontos de preço possíveis de 26 para 182, exigindo inventário em 2 RBDs diferentes."
+    },
+    "dynamic bundle": {
+      "definition (pt-br)": "Um pacote de produtos atômicos que é criado (agrupado) no momento da compra."
+    },
+    "dynamic fare adjustment": {
+      "definition (pt-br)": "Um subconjunto de ajuste de preço dinâmico, esta mudança ajusta apenas a tarifa (não o preço total, incluindo impostos e taxas) de acordo com certos critérios."
+    },
+    "dynamic offer": {
+      "definition (pt-br)": "As informações apresentadas a um cliente antes de uma venda (incluindo o produto tarifário, preço, atributos, ancillaries e outros dados) que foram montadas e precificadas dinamicamente usando métodos de precificação dinâmica (precificação otimizada, ajustada ou contínua)."
+    },
+    "dynamic price adjustment": {
+      "definition (pt-br)": "Um método de precificação dinâmica onde o sistema seleciona um preço de um menu predefinido de pontos de preço possíveis. Então, para certos clientes ou em certas situações, este preço é ajustado através de um desconto ou um incremento. Todos os ajustes são feitos em referência a um preço do menu fixo, e alguns clientes recebem um preço não ajustado."
+    },
+    "dynamic pricing": {
+      "definition (pt-br)": "A metodologia que é usada para um preço que é ajustado ou criado no momento da compra."
+    },
+    "dynamic pricing engine": {
+      "definition (pt-br)": "Uma ferramenta fornecida por uma companhia aérea ou fornecedor para calcular ajustes de preço dinâmicos (incrementos ou descontos) com base na lógica de negócios e conjuntos de dados independentes da companhia aérea."
+    }
+  },
+  "E": {
+    "e-ticket": {
+      "definition (pt-br)": "Uma versão eletrônica de uma passagem em papel."
+    },
+    "eConnect": {
+      "definition (pt-br)": "Uma interface para acessar aplicações ATPCO. Também chamado de sistema Nativo ou 3270."
+    },
+    "EDIFACT": {
+      "definition (pt-br)": "Intercâmbio Eletrônico de Dados para Administração, Comércio e Transporte. Um padrão internacional para troca de dados desenvolvido sob as Nações Unidas."
+    },
+    "edit": {
+      "definition (pt-br)": "A porção de um programa de computador que verifica os dados que estão sendo inseridos em relação aos níveis de diretório ou para o formato de codificação correto antes que o arquivo mestre seja afetado."
+    },
+    "edit error": {
+      "definition (pt-br)": "Um registro que não passa em uma verificação de computador para dados válidos."
+    },
+    "edited transaction": {
+      "definition (pt-br)": "Um registro de tarifa dentro de um lote de tarifas que contém componentes que são reconhecidos como válidos."
+    },
+    "EDS": {
+      "definition (pt-br)": "Sistemas eletrônicos de dados."
+    },
+    "EFA number": {
+      "definition (pt-br)": "Número de aviso de arquivo eletrônico. Também chamado de número GFS. Veja FAN."
+    },
+    "effective date": {
+      "definition (pt-br)": "A primeira data em que um segmento está em vigor."
+    },
+    "EFS": {
+      "definition (pt-br)": "Sistema de Arquivamento Eletrônico."
+    },
+    "Eligibility": {
+      "definition (pt-br)": "Categoria 1. Define os requisitos de identificação, faixa etária e localidade para um tipo de passageiro específico, caso esses elementos existam. Por exemplo, somente estudantes, idosos ou funcionários de uma determinada empresa podem comprar a tarifa."
+    },
+    "ELT": {
+      "definition (pt-br)": "Tarifa Eletrônica."
+    },
+    "embedded segment": {
+      "definition (pt-br)": "Uma instrução de alteração que é feita, mas nunca arquivada no GFS. O segmento não arquivado torna-se embutido e não pode ser arquivado até que seja corrigido."
+    },
+    "EMD": {
+      "definition (pt-br)": "Documento Eletrônico Diversos. Um ou muitos documentos eletrônicos de cupom que podem ser associados a um cupom de voo, referenciados a uma passagem ou emitidos separadamente para documentar uma venda e rastrear o uso de serviços opcionais e outras taxas diversas."
+    },
+    "encoded": {
+      "definition (pt-br)": "Dados dentro de um arquivo automatizado; o termo regras codificadas é frequentemente usado como uma descrição do produto Assinatura de Regras Automatizadas."
+    },
+    "end-on-end": {
+      "definition (pt-br)": "1. (Subcategoria 104, tarifas EUA/CA) Combinação de unidades de preço que são mostradas separadamente na passagem e que não precisam ter um ponto de interrupção de tarifa comum. End-on-End inclui combinações A-B-A. Nota: A validação A-B-A é baseada em códigos de cidade. Veja também combinações. 2. (Subcategoria 104, tarifas internacionais) Combinação de unidades de preço que são mostradas separadamente na passagem e que não precisam ter um ponto de interrupção de tarifa comum. Não aplicável a combinações A-B-A. Nota: A validação A-B-A é baseada em códigos de cidade. Veja também combinações."
+    },
+    "enhancement": {
+      "definition (pt-br)": "Uma parte do trabalho de padronização que envolve uma mudança no processamento por pelo menos um dos consumidores do padrão."
+    },
+    "equipment code": {
+      "definition (pt-br)": "Um designador de três caracteres gerenciado pela IATA indicando qual tipo de aeronave é usado em um determinado voo. Embora mais comumente encontrado em Dados de Horário, esses códigos também existem em disposições de Regras e Taxas de Serviço."
+    },
+    "ERSP": {
+      "definition (pt-br)": "Provedor de Serviços de Reserva Eletrônica. Uma empresa que oferece a capacidade de um consumidor individual ou corporação fazer reservas de companhias aéreas por meio de qualquer meio eletrônico (como Internet, intranet, serviço online, conexão direta, LAN ou WAN) sem a participação direta de um funcionário de companhia aérea ou agência de viagens."
+    },
+    "ET": {
+      "definition (pt-br)": "Tarifa Eletrônica de Passageiros."
+    },
+    "EU-PSD II": {
+      "definition (pt-br)": "Diretiva de Serviços de Pagamento II da União Europeia. Um mandato da Comissão Europeia que exige não apenas entre cartões pessoais e corporativos, mas também entre cartões emitidos dentro ou fora do Espaço Econômico Europeu (EEE). A EU-PSD II proibirá sobretaxas em cartões de crédito/débito de consumo emitidos dentro do EEE."
+    },
+    "exception ratings to general commodity rates": {
+      "definition (pt-br)": "Taxas expressas como uma porcentagem das Taxas Gerais de Mercadorias para cobrar valores mais altos para mercadorias que são difíceis e caras para a transportadora manusear. Também chamadas de taxas premium ou de classe. Veja também GCR, GEN."
+    },
+    "exchange": {
+      "definition (pt-br)": "De acordo com a Resolução 017f da IATA, uma troca é uma alteração na transportadora, voo, data, classe de serviço ou setor do primeiro cupom de voo. A nova tarifa deve ser calculada da origem ao destino da nova jornada com base nas tarifas aplicáveis no momento do início do novo transporte (ou seja, usando as tarifas atuais). Veja também reemissão."
+    },
+    "Exclusion": {
+      "definition (pt-br)": "Porção de critérios de uma consulta codificada para especificar as tarifas que você não deseja encontrar."
+    }
+  },
+  "F": {
+    "FA": {
+      "definition (pt-br)": "Aviso de registro."
+    },
+    "FAA": {
+      "definition (pt-br)": "Administração Federal de Aviação."
+    },
+    "FAN": {
+      "definition (pt-br)": "Número do aviso de registro."
+    },
+    "fare": {
+      "definition (pt-br)": "1. O preço para um passageiro voar da origem ao destino. 2. O valor que um passageiro paga, incluindo as condições de viagem neste valor (ou seja, as regras e restrições que devem ser satisfeitas para se qualificar para uma tarifa específica). Juntos, tarifas e regras formam uma infraestrutura usada para precificação automática (identificação eletrônica de uma tarifa). Uma tarifa tem 11 componentes: incluindo mercado (par de cidades), número da regra, classe tarifária, indicador de ida/volta, MPM ou número de roteamento, nota de rodapé (opcional), moeda, valor da tarifa, data de vigência, data de descontinuação e milhagem. Também chamado de registro de tarifa ATPCO. 3. O valor da tarifa publicada. 4. O preço para um passageiro voar um determinado segmento (par de cidades). Veja também código de base tarifária, tarifa doméstica EUA/CA, tarifa internacional."
+    },
+    "fare audit": {
+      "definition (pt-br)": "O processo de verificação da precisão do valor da tarifa, regras tarifárias aplicáveis, sobretaxas, taxas e impostos para verificar se a receita foi coletada corretamente."
+    },
+    "fare basis code": {
+      "definition (pt-br)": "A Base Tarifária é o código que aparece no bilhete na caixa de Base Tarifária. Pode incluir letras, números e até duas barras (/). Uma Base Tarifária é uma compilação da classe tarifária ou código de emissão de bilhetes e um ou dois designadores de emissão de bilhetes. O código de base tarifária não deve ser confundido com a classe tarifária, que está associada a cada tarifa e é usada na precificação. Também chamado de base tarifária."
+    },
+    "fare break point": {
+      "definition (pt-br)": "1. O destino onde uma determinada tarifa começa ou termina. 2. (aplicativo de dados) Pontos terminais de um componente de tarifa Também chamados de pontos de construção de tarifa. 3. Uma parada que só pode ser feita mediante o pagamento da soma das tarifas locais entre esse ponto e os pontos de construção de tarifa precedentes e bem-sucedidos."
+    },
+    "Fare by Rule": {
+      "definition (pt-br)": "Categoria 25. Crie novas tarifas instruindo um sistema de precificação a usar dados de regras para especificar os mercados e valores das tarifas. As tarifas podem ser calculadas a partir de tarifas existentes no mercado ou especificadas para criar uma nova tarifa usando as disposições da regra codificadas na Categoria 25."
+    },
+    "fare class": {
+      "definition (pt-br)": "A identificação da tarifa de um a oito caracteres."
+    },
+    "Fare Class Application": {
+      "definition (pt-br)": "Um registro ATPCO envolvendo uma combinação de Tarifa de Regras Automatizadas, Transportadora, Número da Regra, Classe Tarifária, Sequência e data de vigência. O registro de Aplicação de Classe Tarifária fornece dados diversos (como tipo de tarifa, códigos de emissão de bilhetes e tipo de passageiro) pertinentes à classe tarifária especificada, que são necessários para a precificação, e atribui os designadores de reserva necessários para se qualificar para a tarifa. Também chamado de Registro 1 ou Registro de Classe Tarifária."
+    },
+    "fare class record": {
+      "definition (pt-br)": "Veja Aplicação de Classe Tarifária."
+    },
+    "fare component": {
+      "definition (pt-br)": "Uma porção de uma jornada ou itinerário entre dois pontos de interrupção de tarifa consecutivos."
+    },
+    "fare construction point": {
+      "definition (pt-br)": "Veja ponto de interrupção de tarifa."
+    },
+    "Fare Creator Table": {
+      "definition (pt-br)": "A Tabela Criadora de Tarifas 979 está localizada na Categoria 35 Registro 3. A Tabela 979 fornece informações de cálculo de tarifas para criar valores líquidos ou de venda a partir da tarifa inicial. Os valores de venda podem ser especificados, calculados ou expressos como intervalos. Os valores líquidos podem ser especificados ou calculados."
+    },
+    "fare destination": {
+      "definition (pt-br)": "O ponto final da unidade de precificação."
+    },
+    "fare family": {
+      "definition (pt-br)": "Um método de identificação de várias classes tarifárias em uma única entrada. No ID da Categoria, o campo Classe Tarifária pode ser codificado com um hífen para indicar todas as classes tarifárias que contêm esses caracteres."
+    },
+    "fare management": {
+      "definition (pt-br)": "1. O quadrante do ciclo de vida da tarifa onde as companhias aéreas usam os sistemas ATPCO e informações de mercado para informar as decisões futuras de precificação. (ATPCO) 2. As decisões de negócios por trás da criação, modificação ou cancelamento de tarifas, regras e outros registros para dar suporte a preços complexos. O gerenciamento de tarifas apresenta dados históricos e atuais de tarifas e regras de mercado que as companhias aéreas consultam e usam para fazer alterações. Esse processo ocorre simultaneamente ao gerenciamento de receita, embora a maioria das grandes transportadoras geralmente tenha departamentos diferentes para esses dois processos. Também chamado de suporte à decisão (indústria)."
+    },
+    "fare origin": {
+      "definition (pt-br)": "O ponto inicial de uma unidade de precificação."
+    },
+    "fare owner": {
+      "definition (pt-br)": "A organização que contrata a ATPCO para registrar tarifas, regras e outros dados em seus próprios arquivos sob seu próprio controle."
+    },
+    "fare quotation": {
+      "definition (pt-br)": "O principal propósito de um GDS, este processo envolve reunir programação, inventário e dados de tarifas e regras para precificar e exibir itinerários."
+    },
+    "fare record": {
+      "definition (pt-br)": "Um registro no sistema de Tarifas que contém o valor real da tarifa, tarifa, transportadora, mercado, código de classe tarifária, roteamento, número da regra, nota de rodapé e outras informações."
+    },
+    "fare rule": {
+      "definition (pt-br)": "As disposições automatizadas de regras para classes de tarifas específicas. O termo pode se referir a regras que regem as tarifas publicadas (agrupadas por categorias) ou a tarifas que estão contidas no texto de uma regra (Tarifa por Regra). O termo é usado para diferenciar entre este tipo de regra e uma Regra Geral."
+    },
+    "fare selection": {
+      "definition (pt-br)": "O processo pelo qual o assinante ou o sistema de precificação determina quais dos registros de tarifas da ATPCO são aplicáveis ao itinerário; um pré-requisito deste processo é a determinação da porção primária para cada componente da tarifa."
+    },
+    "fare type": {
+      "definition (pt-br)": "Uma identificação simbólica das características de uma classe tarifária que fornece uma maneira de agrupar tipos semelhantes de tarifas. Está diretamente ligado às disposições da regra."
+    },
+    "Fare Type Matrix": {
+      "definition (pt-br)": "Um documento usado para determinar a tag Normal ou Especial correta, o código do tipo de categoria e o código do tipo de tarifa para as classes de tarifas. (Ver Apêndice B da Documentação de Assinatura de Regras Automatizadas)."
+    },
+    "fare-related data": {
+      "definition (pt-br)": "Dados que incluem ou suportam tarifas aéreas. Pode incluir dados para tarifas, regras, regras gerais, registros governamentais, roteamentos, complementos, construções, diretórios, taxas de combustível e seguro, sobretaxas, taxas de serviço, taxas de emissão de bilhetes, taxas de serviço opcionais, taxas de bagagem, impostos, PFCs, dados de vendas, dados de auditoria, dados de rateio e metadados de tarifas."
+    },
+    "fare-related services": {
+      "definition (pt-br)": "Um serviço opcional que está associado a uma tarifa específica e baseado nas reemissões ou reembolsos que estão disponíveis para essa tarifa. Por exemplo, um passageiro pode querer pré-comprar a oportunidade de alterar ou reembolsar o itinerário do bilhete."
+    },
+    "FareManager": {
+      "definition (pt-br)": "Um aplicativo baseado na web que fornece acesso a todos os aplicativos da ATPCO, incluindo Tarifas, Regras, Notas de Rodapé, Roteamentos, Visão de Mercado, Serviços Opcionais e PIPPS."
+    },
+    "FareManager Rules system": {
+      "definition (pt-br)": "O único banco de dados mundial de condições automatizadas de tarifas de passageiros, este sistema permite a consulta e manutenção das regras e condições que devem ser atendidas para que um passageiro se qualifique para um determinado preço de bilhete. Ele pode conter dados aplicáveis a qualquer classe de tarifa em qualquer mercado por meio de uma determinada tarifa, transportadora ou regra. Ele também pode conter dados aplicáveis a uma classe de tarifa ou tipo de classe de tarifa específico, um mercado específico ou uma classe de tarifa mais um mercado específico."
+    },
+    "fat record": {
+      "definition (pt-br)": "Veja registro de classe de tarifa."
+    },
+    "FCN": {
+      "definition (pt-br)": "Número de controle de registro. O FCN é usado no GFS para criar um registro GFS e no IDMS para identificar um registro de tarifa em papel antes das assinaturas."
+    },
+    "FCU": {
+      "definition (pt-br)": "Unidade de construção de tarifa. Obs. Veja NUC."
+    },
+    "fee component": {
+      "definition (pt-br)": "Os pontos finais da viagem associados a uma taxa imposta pela transportadora, conforme determinado pelo processamento de Taxas Impostas pela Transportadora (Registro S1)."
+    },
+    "field": {
+      "definition (pt-br)": "Uma área específica na tela de uma interface de usuário onde o usuário pode inserir dados."
+    },
+    "fifth freedom": {
+      "definition (pt-br)": "Voos que transportam tráfego que se origina e termina em países que não o país de origem da transportadora, independentemente de o voo fazer escala no país de origem."
+    },
+    "filed": {
+      "definition (pt-br)": "1. Um status atribuído pelo sistema a registros que foram registrados por meio do GFS; os únicos registros que podem ser visualizados por outras operadoras no modo de consulta. Uma vez arquivados, os registros também são enviados na próxima transmissão de Assinaturas. Veja também dados não arquivados. 2. Uma tarifa arquivada no GFS e apresentada a um governo que aceita arquivos oficiais via GFS."
+    },
+    "filing": {
+      "definition (pt-br)": "(n) Um grupo de revisões para tarifas e regras enviadas por meio do GFS. Este envio pode conter dados a serem apresentados a um governo para aprovação. (v) O ato de processar dados por meio do sistema GFS."
+    },
+    "filing advice": {
+      "definition (pt-br)": "Uma instrução de uma transportadora anotada FA ou F/A seguida por um número de referência sequencial. Veja também número de aviso de registro."
+    },
+    "filing advice number": {
+      "definition (pt-br)": "1. Um número dado a um registro que foi processado através do GFS. Este número é criado usando a data de envio e um número único atribuído pelo sistema. Ele fornece informações sobre a data em que o registro foi enviado e pode ser usado para fins de controle e rastreamento. Também chamado de número GFS. 2. Um número ou números de referência atribuídos por uma transportadora a uma instrução (como um registro GFS). Obs. 3. Um número de registro atribuído dentro do ambiente de tarifa em papel pelo departamento de produção para identificar uma transmissão ou conjunto de transmissões ao DOT."
+    },
+    "first freedom": {
+      "definition (pt-br)": "O direito de uma transportadora aérea voar sobre outro país sem pousar."
+    },
+    "flat fare": {
+      "definition (pt-br)": "Outro termo para um contrato negociado especificado."
+    },
+    "fleet": {
+      "definition (pt-br)": "A coleção de aeronaves que uma companhia aérea opera."
+    },
+    "Flight Application": {
+      "definition (pt-br)": "Categoria 4. Reflete informações que são o número do voo ou o padrão do voo orientado, que pode ser definido por non-stop, one-stop, multi-stop ou direto. Por exemplo, uma tarifa pode ser válida apenas em determinadas rotas, voos específicos ou com companhias aéreas parceiras."
+    },
+    "flight coupon": {
+      "definition (pt-br)": "A porção de um bilhete que o passageiro entrega à transportadora ao embarcar. Um cupom pode cobrir pernas únicas ou múltiplas de um voo, ou mesmo conter toda a jornada."
+    },
+    "flight-related services": {
+      "definition (pt-br)": "Um serviço opcional que deve estar associado a voos específicos no bilhete de um passageiro. Por exemplo, um serviço para atribuição antecipada de assento."
+    },
+    "flights": {
+      "definition (pt-br)": "O número de voo específico ou a faixa de números que se aplica a uma tarifa."
+    },
+    "FN, FNT": {
+      "definition (pt-br)": "Abreviações para nota de rodapé."
+    },
+    "footnote": {
+      "definition (pt-br)": "Caracteres alfa, numéricos, alfanuméricos ou numérico-alfa anexados a um registro de tarifa indicando condições específicas aplicáveis à tarifa. Usadas junto com as categorias para restringir ainda mais uma tarifa, as notas de rodapé geralmente contêm datas de viagem, datas de vendas ou outras condições especiais. Uma vantagem de codificar restrições em uma nota de rodapé em vez de uma regra é que uma nota de rodapé pode residir em qualquer tarifa dentro de sua transportadora/tarifa. Qualquer número 1-99 e qualquer letra diferente de F e T podem ser atribuídos à nota de rodapé. (F e T são reservados para significar \"a viagem deve ser DE/PARA a primeira cidade mostrada em um determinado mercado\" quando são codificados na Categoria 23.)"
+    },
+    "fourth freedom": {
+      "definition (pt-br)": "O direito de uma transportadora aérea de embarcar, no território de outro estado, passageiros, carga e correspondência para descarregar no estado em que está registrada."
+    },
+    "FQTV": {
+      "definition (pt-br)": "Viajante frequente."
+    },
+    "FROP": {
+      "definition (pt-br)": "Produto de Saída de Regras de Tarifas da ATPCO."
+    },
+    "funnel": {
+      "definition (pt-br)": "Um único número de voo na mesma transportadora, mas em uma aeronave diferente. Também chamado de bitola."
+    }
+  },
+  "G": {
+    "G30": {
+      "definition (pt-br)": "Diretório que controla quais organizações (assinantes) recebem quais dados públicos e privados da ATPCO para processamento. Agora gerenciado através do aplicativo FareManager Distribution."
+    },
+    "gateway": {
+      "definition (pt-br)": "O último ponto de partida ou o primeiro ponto de chegada dentro de uma localidade geográfica, conforme especificado abaixo: (Nota: existe uma hierarquia implícita nas descrições a seguir.) a. Ao viajar entre as Áreas 1, 2 ou 3, o último ponto de partida/primeiro ponto de chegada nessa área. b. Ao viajar entre zonas dentro de uma área, o último ponto de partida/primeiro ponto de chegada nessa zona (não aplicável a viagens entre zonas dentro dos Estados Unidos). c. Ao viajar entre países dentro de uma zona, o último ponto de partida em um país e o primeiro ponto de chegada em outro país. NOTA: A hierarquia de gateway se aplica a componentes de tarifa ou unidades de precificação, dependendo da aplicação da categoria. Quando a viagem cruza várias áreas IATA, como NYC—BOM via PAR (Área 1 para Área 3 via Área 2), a partida da Área 1 (NYC) e a chegada na Área 3 (BOM) são consideradas os gateways. Os pontos intermediários via na Área 2 não são (PAR), a menos que sejam modificados por um Gateway TSI em combinação com Localização Geográfica (como Gateway Europe)."
+    },
+    "gauge": {
+      "definition (pt-br)": "Um único número de voo na mesma companhia aérea, mas em uma aeronave diferente. Também chamado de funil."
+    },
+    "GCM": {
+      "definition (pt-br)": "Milhas de círculo máximo."
+    },
+    "GCR": {
+      "definition (pt-br)": "Tarifa Geral de Mercadoria. Uma tarifa aplicada a frete que não se enquadra em nenhuma categoria específica."
+    },
+    "GDS": {
+      "definition (pt-br)": "Sistema de distribuição global."
+    },
+    "GEN": {
+      "definition (pt-br)": "Tarifa Geral de Mercadoria. Uma tarifa aplicada a frete que não se enquadra em nenhuma categoria específica."
+    },
+    "general rule": {
+      "definition (pt-br)": "Restrições que se aplicam a todas as tarifas; consequentemente, são separadas das regras tarifárias individuais. Quando uma regra geral não se aplica a uma tarifa, a não aplicabilidade é incluída na regra tarifária. Também chamada de regra de governo."
+    },
+    "General Rules": {
+      "definition (pt-br)": "Páginas de tarifas impressas que são publicadas como documentos legais para os governos do Canadá e dos Estados Unidos."
+    },
+    "Get Fares": {
+      "definition (pt-br)": "Uma função que permite que as tarifas sejam alteradas ou canceladas dentro de um lote de tarifas."
+    },
+    "GFS": {
+      "definition (pt-br)": "Sistema de Arquivamento Governamental da ATPCO. Um sistema automatizado usado pela ATPCO que combina dados de tarifa e regra e arquiva eletronicamente as mudanças da transportadora para os governos correspondentes ou para as transportadoras exibirem ou distribuírem. As mudanças podem consistir em tarifas, complementos, notas de rodapé, roteamentos e regras."
+    },
+    "GFS FAN": {
+      "definition (pt-br)": "Ver Número de Aviso de Arquivamento."
+    },
+    "global distribution system": {
+      "definition (pt-br)": "Um sistema de rede que permite transações entre provedores de serviços da indústria de viagens, como companhias aéreas, hotéis, locadoras de veículos e agências de viagens."
+    },
+    "Gold Release": {
+      "definition (pt-br)": "O nome para o ambiente de teste onde os clientes podem usar dados reais para se familiarizarem com novas interfaces e testarem a alteração de arquivos de assinatura para garantir que o preço ocorra corretamente em um sistema atualizado."
+    },
+    "governing rule": {
+      "definition (pt-br)": "Ver regras gerais."
+    },
+    "government filing": {
+      "definition (pt-br)": "Usando o GFS, sete governos (EUA, CA, GB, NL, DE, BM e KY) exigem que novas tarifas referentes a seus países sejam arquivadas para aprovação. Agora eletrônico, a notificação do governo era anteriormente enviada por mensageiro. As tarifas são arquivadas várias vezes ao dia."
+    },
+    "grant": {
+      "definition (pt-br)": "Ver número de aprovação."
+    },
+    "granular data": {
+      "definition (pt-br)": "Dados detalhados de transações individuais. Ver também dados agregados."
+    },
+    "graphical user interface": {
+      "definition (pt-br)": "Um ambiente visual de computador que representa programas, arquivos e opções com imagens gráficas, como ícones, menus e caixas de diálogo na tela."
+    },
+    "great circle miles": {
+      "definition (pt-br)": "O cálculo da quilometragem entre dois pontos pelo uso da longitude e latitude de cada local."
+    },
+    "gross fare amount": {
+      "definition (pt-br)": "Uma tarifa publicada ou privada arquivada (o valor mostrado na Caixa de Tarifa Base do cupom do passageiro). Também chamado de valor da tarifa emitida."
+    },
+    "gross reporting amount": {
+      "definition (pt-br)": "O valor reportado à transportadora pelo agente, incluindo quaisquer comissões a serem deduzidas através do retorno ARC/BSP."
+    },
+    "Groups": {
+      "definition (pt-br)": "Categoria 26. Define os requisitos para se qualificar para tarifas de grupo. Por exemplo, tamanho mínimo do grupo, tipo de grupo, substitutos, viajar juntos ou restrições de viagem individuais, como dez ou mais passageiros viajando juntos."
+    },
+    "GTR": {
+      "definition (pt-br)": "Solicitação de transporte governamental."
+    },
+    "GUI": {
+      "definition (pt-br)": "Interface gráfica do usuário."
+    }
+  },
+  "H": {
+    "half-round-trip fare": {
+      "definition (pt-br)": "1. (Tarifas EUA/CA) Metade de uma tarifa de ida e volta. Uma tarifa de só ida nunca é considerada uma tarifa de meia-ida e volta. Ver também combinações. 2. (Tarifas internacionais) Metade de uma tarifa de ida e volta (Tag 2) ou uma tarifa de só ida (Tag 1) dobrada e dividida pela metade. Metade de uma tarifa normal ou especial de ida e volta especificada/publicada ou construída/não publicada. Adicionalmente, a tarifa normal de só ida pode ser considerada uma tarifa normal de meia-ida e volta. Se uma tarifa especial de só ida pode ser dobrada para estabelecer uma tarifa especial de ida e volta, a tarifa especial de só ida pode ser considerada uma tarifa especial de meia-ida e volta. Uma tarifa Tag 1 de só ida dobrada e dividida pela metade pode ser considerada uma tarifa de meia-ida e volta, mas nunca é considerada uma tarifa Tag 2. Uma tarifa de meia-ida e volta nunca é uma tarifa de só ida (Tag 3) que não pode ser dobrada. Ver também combinações."
+    },
+    "headline city": {
+      "definition (pt-br)": "A cidade que aparece primeiro em um par de cidades de mercado. Também chamada de cidade de origem."
+    },
+    "hidden point": {
+      "definition (pt-br)": "Um ponto geográfico onde uma parada intermediária não bilhetada ocorreu."
+    },
+    "higher intermediate point": {
+      "definition (pt-br)": "Uma cidade entre a origem e o destino do componente de tarifa internacional direta que tem uma tarifa mais alta."
+    },
+    "Higher Intermediate Point/Mileage": {
+      "definition (pt-br)": "Categoria 17. Nega pressupostos quando escalas ou conexões são feitas em locais específicos, ou uma regra de Ponto Intermediário Mais Alto se aplica. Por exemplo, uma companhia aérea pode cobrar mais quando para em uma cidade ao longo de sua rota que é mais distante ou mais cara do que seu destino."
+    },
+    "HIP": {
+      "definition (pt-br)": "Ponto intermediário mais alto."
+    },
+    "HIP type codes": {
+      "definition (pt-br)": "1. O, Origem - Intermediário. A aplicação HIP se aplica da origem do componente tarifário a qualquer(s) ponto(s) bilhetado(s) dentro do componente tarifário que está sendo avaliado. 2. D, Intermediário - Destino. A aplicação HIP se aplica de um ponto bilhetado ao destino do componente tarifário que está sendo avaliado. 3. I, Intermediário - Intermediário. A aplicação HIP se aplica entre quaisquer dois pontos bilhetados dentro do componente tarifário que está sendo avaliado."
+    },
+    "hold": {
+      "definition (pt-br)": "Um tipo de ação em lote que cria um lote que contém transações que não serão validadas neste momento."
+    },
+    "hold until nightly": {
+      "definition (pt-br)": "Um lote de trabalho a ser tornado público por distribuição na última extração de assinatura do dia. Ver também status do lote."
+    },
+    "HOT": {
+      "definition (pt-br)": "Fita de transferência; arquivo de transações responsabilizáveis ​​enviado do BSP para as companhias aéreas participantes. Geralmente, um HOT é estruturado por transportadora validadora, por país, por período de faturamento, por moeda e por agência."
+    }
+  },
+  "I": {
+    "IATA": {
+      "definition (pt-br)": "Associação Internacional de Transporte Aéreo."
+    },
+    "IBE": {
+      "definition (pt-br)": "Mecanismo de reservas online."
+    },
+    "ICAO": {
+      "definition (pt-br)": "Organização da Aviação Civil Internacional (pronuncia-se “ai-KEI-oh”). Um órgão das Nações Unidas que regula os aspectos técnicos e de segurança da aviação comercial em todo o mundo. Sua sede fica em Montreal."
+    },
+    "IDMS": {
+      "definition (pt-br)": "Sistema de Gerenciamento de Banco de Dados Integrado."
+    },
+    "inbound travel": {
+      "definition (pt-br)": "1. (tarifas não direcionais) Todos os componentes tarifários dentro da unidade de precificação que ocorrem após o ponto de retorno (após o ponto de quebra de tarifa geográfica mais distante). 2. (tarifas direcionais) Todos os componentes tarifários dentro da unidade de precificação que são selecionados na direção oposta da viagem do passageiro."
+    },
+    "Inclusion": {
+      "definition (pt-br)": "Parte de uma consulta para reunir registros que atendam a determinados critérios. Os resultados fornecem uma visão atual do seu banco de dados."
+    },
+    "inclusive table": {
+      "definition (pt-br)": "Uma tabela usada para identificar itens específicos (como países, cidades, classes tarifárias e números de regras) que produzirão uma ação ou resultado idêntico."
+    },
+    "incomplete": {
+      "definition (pt-br)": "Um tipo de status de lote indicando que os dados contidos no lote não foram distribuídos no processo de assinatura. Veja também status do lote."
+    },
+    "indirect channel": {
+      "definition (pt-br)": "O processo de precificação e reserva de bilhetes através de um intermediário terceiro, geralmente uma agência de viagens ou empresa de gestão de viagens. Esses processos dependem de dados de horários e tarifas intermediados pela indústria para serem executados e constituem a maioria das reservas em todo o mundo."
+    },
+    "Industry Sales Record": {
+      "definition (pt-br)": "Um processo diário que recebe os três formatos diferentes de dados de vendas (TCN 4.05, ARC CAT e BSP HOT V20) e os combina em um único fluxo de dados."
+    },
+    "INF": {
+      "definition (pt-br)": "Bebê sem assento (geralmente com menos de 2 anos)."
+    },
+    "inquiry": {
+      "definition (pt-br)": "Um recurso de visualização que permite a exibição de registros no arquivo de banco de dados sem atualização. Uma companhia aérea que utiliza este recurso pode visualizar todos os seus próprios registros e os registros públicos de todas as outras companhias aéreas. Um analista da ATPCO pode visualizar todos os registros de todas as companhias aéreas."
+    },
+    "INS": {
+      "definition (pt-br)": "Bebê ocupando um assento (geralmente com menos de 2 anos)."
+    },
+    "instruction": {
+      "definition (pt-br)": "A descrição escrita e a justificativa para a ATPCO de uma companhia aérea publicadora descrevendo as mudanças desejadas em uma regra tarifária, adicional, nota de rodapé, roteamento ou qualquer outro produto. Veja também aconselhamento de preenchimento."
+    },
+    "interface standards": {
+      "definition (pt-br)": "Padrões técnicos que documentam especificações de arquivos e atributos de elementos de dados."
+    },
+    "interline": {
+      "definition (pt-br)": "Uma reserva de bilhete que envolve várias companhias aéreas. Usado em conjunto com outras palavras, como itinerário interline, reserva interline ou ponto interline."
+    },
+    "Interline transfer": {
+      "definition (pt-br)": "(aplicação de dados) A transferência de serviços de uma companhia aérea para uma companhia aérea diferente, pode incluir a transferência entre os serviços da companhia aérea primária para outra companhia aérea."
+    },
+    "intermediate point": {
+      "definition (pt-br)": "Um ponto com bilhete entre os pontos terminais do componente tarifário."
+    },
+    "internal table": {
+      "definition (pt-br)": "Veja tabela de suporte."
+    },
+    "international": {
+      "definition (pt-br)": "Viagem entre dois ou mais estados soberanos."
+    },
+    "International Air Transportation Association": {
+      "definition (pt-br)": "A associação comercial e de lobby com o objetivo de melhorar as companhias aéreas comerciais em todo o mundo. O grupo, com sede em Genebra, faz lobby em órgãos governamentais em nome de seus membros, fornece padrões para segurança, comunicações e mensagens e ajuda a coordenar preços e liquidação. Isso inclui a emissão de códigos de companhia aérea de duas letras, códigos de aeroporto/cidade de três letras e resoluções sobre preços. Os membros se reúnem para estabelecer preços para transporte internacional; o DOT concede (ou se recusa a conceder) imunidade antitruste em cada acordo. A ATPCO e a IATA são parceiras em vários produtos, incluindo Baggage, RBDs, IDEC, AIA, PMP e PAT. Pronuncia-se “ai-AH-tah”."
+    },
+    "international fares": {
+      "definition (pt-br)": "Tarifas que envolvem viagens entre dois ou mais estados soberanos, ou viagens dentro de um estado soberano diferente de US/CA e entre os Estados Unidos ou Canadá (incluindo dados ATPCO AllFares)."
+    },
+    "international tariff": {
+      "definition (pt-br)": "Uma tarifa cuja aplicação geográfica é diferente de dentro ou entre os Estados Unidos e o Canadá. Este termo é usado principalmente para tarifas de/para US/CA. As tarifas AllFares também são internacionais, mas esse termo é usado apenas para viagens que não incluem US/CA."
+    },
+    "interoperability": {
+      "definition (pt-br)": "A capacidade dos dados de serem usados ​​em diferentes sistemas, entre diferentes parceiros e para diferentes propósitos, enquanto ainda produzem resultados consistentes."
+    },
+    "intraline": {
+      "definition (pt-br)": "A transferência de diferentes serviços de voo na mesma companhia aérea, ou a transferência de serviços apenas na companhia aérea primária."
+    },
+    "inventory": {
+      "definition (pt-br)": "Uma contagem do número de assentos que uma companhia aérea tem disponível para venda a qualquer momento para qualquer voo. A troca de mensagens de inventário ocorre diretamente entre as companhias aéreas e os GDSs e está conectada aos dados de tarifa e regra por meio do produto RBD da ATPCO. As companhias aéreas gerenciam bancos de dados de inventário com sistemas de gerenciamento de receita. Os sistemas de cotação de tarifas consultam os bancos de dados de inventário diretamente para obter informações de disponibilidade atualizadas para uso na precificação."
+    },
+    "ISDN": {
+      "definition (pt-br)": "Rede Digital de Serviços Integrados."
+    },
+    "ISR": {
+      "definition (pt-br)": "Registro de Vendas da Indústria."
+    },
+    "ISTA": {
+      "definition (pt-br)": "Acordo de Viagem da Equipe Interline."
+    },
+    "itinerary": {
+      "definition (pt-br)": "Todos os pontos de viagem planejada. Também chamado de jornada."
+    }
+  },
+  "J": {
+    "JavaScript": {
+      "definition (pt-br)": "Uma linguagem de programação de script usada mais comumente para adicionar recursos interativos a páginas da Web."
+    },
+    "JCL": {
+      "definition (pt-br)": "Linguagem de Controle de Tarefas."
+    },
+    "journey": {
+      "definition (pt-br)": "Todos os pontos no bilhete. Também chamado de itinerário."
+    },
+    "journey calculation": {
+      "definition (pt-br)": "O primeiro passo na cotação de tarifas, envolve o uso dos dados de horários para criar todos os itinerários possíveis usando os parâmetros que os consumidores inserem através do sistema pelo sistema de front-end de compras ou reservas pela Internet."
+    },
+    "journey turnaround": {
+      "definition (pt-br)": "A quebra de tarifa ou parada mais distante na jornada que é definida exclusivamente nos Registros de Serviços para Taxas Impostas pela Companhia Aérea e Taxas de Emissão de Bilhetes."
+    },
+    "JPSC": {
+      "definition (pt-br)": "Conferência Conjunta de Serviços de Passageiros; o grupo que se reúne anualmente para aprovar as mudanças nas Resoluções JPSC que entram em vigor em 1º de junho do ano seguinte."
+    },
+    "JPSC Resolutions": {
+      "definition (pt-br)": "Regras documentadas no Manual de Resoluções JPSC que regem o serviço de passageiros para relacionamentos entre companhias aéreas e entre companhias aéreas e agências de viagens."
+    },
+    "JPTC": {
+      "definition (pt-br)": "Comitê Conjunto de Emissão de Bilhetes de Passageiros; reporta-se ao JPSC e determina as mudanças de resolução relacionadas às práticas de emissão de bilhetes."
+    },
+    "justification": {
+      "definition (pt-br)": "A razão econômica pela qual uma companhia aérea deseja fazer alterações em suas taxas ou tarifas. Todas as alterações arquivadas devem ser justificadas por aviso legal ou curto."
+    }
+  },
+  "K": {
+    "key": {
+      "definition (pt-br)": "A informação básica necessária para identificar de forma única um registro de computador, tarifa ou preço."
+    },
+    "key fields": {
+      "definition (pt-br)": "Os campos de um registro que definem esse registro de forma única. Não podem existir dois registros para a mesma Propriedade, Tarifa e Companhia Aérea, com campos-chave idênticos, no arquivo."
+    },
+    "key match": {
+      "definition (pt-br)": "A informação básica necessária para identificar de forma única um registro para fins de manutenção de dados, como número de registro ou tabela."
+    },
+    "knock-off value": {
+      "definition (pt-br)": "Uma dedução de valor fixo do valor da tarifa publicada."
+    }
+  },
+  "L": {
+    "LAN": {
+      "definition (pt-br)": "Rede de Área Local."
+    },
+    "LCC": {
+      "definition (pt-br)": "Companhia aérea de baixo custo."
+    },
+    "leg": {
+      "definition (pt-br)": "Um trecho de transporte entre duas paradas intermediárias programadas consecutivas em um determinado voo."
+    },
+    "legroom": {
+      "definition (pt-br)": "A quantidade de espaço para as pernas de uma pessoa entre seu assento e o da frente. O espaço para as pernas pode ser indicado nos dados do Routehappy em agrupamentos como espaço para as pernas Padrão, Menos ou Mais, ou pode ser medido como uma distância numérica e listado como 'pitch' do assento."
+    },
+    "LF": {
+      "definition (pt-br)": "Fator de carga."
+    },
+    "life cycle of the fare": {
+      "definition (pt-br)": "O processo cíclico de criação de uma tarifa, distribuição para a indústria, alocação de receita de sua venda e análise de seu desempenho comercial."
+    },
+    "lift": {
+      "definition (pt-br)": "A coleta e operação real de um cupom de voo."
+    },
+    "live government": {
+      "definition (pt-br)": "Um governo que tomou medidas em relação aos registros por meio do sistema GFS. Os governos ativos atuais são Bermudas, Canadá, Alemanha, Ilhas Cayman, Holanda e Estados Unidos."
+    },
+    "LMS": {
+      "definition (pt-br)": "Sistema de Gerenciamento de Aprendizagem."
+    },
+    "LNIATA": {
+      "definition (pt-br)": "O endereço completo da linha da linha de comunicação entre o gateway e o host ou GDS. É composto por LN (Linha), IA (Endereço de Intercâmbio) e TA (Endereço do Terminal)."
+    },
+    "load factor": {
+      "definition (pt-br)": "Uma medida da indústria de quão perto o tráfego corresponde à capacidade. Este número é calculado como uma razão de ASKs para RPKs."
+    },
+    "local fare": {
+      "definition (pt-br)": "Ver Tarifas EUA/CA."
+    },
+    "locale": {
+      "definition (pt-br)": "1. Um ponto geográfico. 2. Um local específico identificado como uma cidade, estado, país, zona ou área. Pode, em alguns casos, incluir aeroportos."
+    }
+  },
+  "M": {
+    "main category": {
+      "definition (pt-br)": "Uma descrição da categoria da regra que controla o requisito. Veja também categoria qualificadora."
+    },
+    "major subcategory": {
+      "definition (pt-br)": "Uma das quatro subcategorias principais da Categoria 10 (101-104) que estabelece disposições para tipos de combinação específicos. Ver viagem circular, ponta a ponta, maxilar aberto e viagem de ida e volta."
+    },
+    "MAR": {
+      "definition (pt-br)": "Venda moderna de passagens aéreas"
+    },
+    "market": {
+      "definition (pt-br)": "A cidade que é o ponto de origem ou destino de uma viagem."
+    },
+    "market pair": {
+      "definition (pt-br)": "As cidades de origem e destino de uma viagem."
+    },
+    "marketing carrier": {
+      "definition (pt-br)": "O código da companhia aérea que aparecerá no cupom de voo da passagem (normalmente usado para code share)."
+    },
+    "master source": {
+      "definition (pt-br)": "O banco de dados da ATPCO."
+    },
+    "match": {
+      "definition (pt-br)": "Os dados que são usados para determinar se o registro ou tabela é aplicável."
+    },
+    "Match criteria": {
+      "definition (pt-br)": "Parte de uma consulta codificada para encontrar tarifas e usar o valor dessa tarifa."
+    },
+    "maximum permitted mileage": {
+      "definition (pt-br)": "O número máximo de milhas que podem ser percorridas para um componente de tarifa sem incorrer em uma sobretaxa de milhagem."
+    },
+    "Maximum Stay": {
+      "definition (pt-br)": "Categoria 7. Especifica a última vez que a viagem de volta pode começar ou ser concluída. Por exemplo, um máximo de 30 dias é permitido."
+    },
+    "MCO": {
+      "definition (pt-br)": "Ordem de Encargos Diversos. Um documento contabilizável que pode ser emitido para cobrir encargos diversos e é usado em troca do serviço."
+    },
+    "memo": {
+      "definition (pt-br)": "Um conjunto encadernado de páginas com um conjunto definido de taxas ou tarifas publicadas para a conveniência do usuário. Um novo livro de notas substitui periodicamente o antigo para eliminar a necessidade de arquivar páginas soltas. Os memorandos não são arquivados no DOT, mas podem ou não conter taxas ou tarifas que são arquivadas no DOT. Taxas ou tarifas em uma tarifa arquivada sempre substituiriam aquelas em uma tarifa de memorando quando ocorrem diferenças."
+    },
+    "merchandise services": {
+      "definition (pt-br)": "Um serviço opcional que não está associado a nenhuma viagem ou passagem de passageiro. Tal serviço pode ser precificado independentemente de o cliente possuir uma passagem de passageiro. Por exemplo, uma companhia aérea pode oferecer camisetas com logotipo à venda, independentemente de existir ou não uma passagem."
+    },
+    "merchandising": {
+      "definition (pt-br)": "Um componente chave da apresentação da oferta, o merchandising consiste em atributos do produto usados para selecionar e filtrar ofertas exibidas para que os consumidores possam entender os detalhes do produto da companhia aérea."
+    },
+    "MIBA": {
+      "definition (pt-br)": "Acordo Multilateral de Viagens de Negócios Interline para viagens de negócios de companhias aéreas."
+    },
+    "mileage currency": {
+      "definition (pt-br)": "Código de moeda XXX usado para registrar prêmios de milhagem"
+    },
+    "mileage-based fares": {
+      "definition (pt-br)": "Uma tarifa que não é regida por um mapa de roteamento designado, mas sim por uma restrição de milhagem máxima permitida (MPM)."
+    },
+    "min/max pricing": {
+      "definition (pt-br)": "Um tipo de precificação contínua onde as companhias aéreas distribuem uma faixa de preço mínimo/máximo, eliminando a necessidade de pré-distribuir preços individuais."
+    },
+    "minimum group size": {
+      "definition (pt-br)": "Número mínimo de passageiros necessários para se qualificar para uma tarifa."
+    },
+    "Minimum Stay": {
+      "definition (pt-br)": "Categoria 6. Especifica a primeira vez que a viagem de volta pode começar. Por exemplo, é necessária uma estadia de sábado à noite."
+    },
+    "minor subcategory": {
+      "definition (pt-br)": "Uma das quatro subcategorias qualificadoras da Categoria 10 (106-109) que estabelece restrições sobre tipos de combinação."
+    },
+    "MIPS": {
+      "definition (pt-br)": "Milhões de instruções por segundo."
+    },
+    "mirror image": {
+      "definition (pt-br)": "(Subcategoria 102, Tarifas Internacionais) Uma unidade de precificação de ida e volta consistindo em dois componentes de tarifa, metade de uma viagem de ida e volta (tarifa Tag 2) usando o mesmo Código de Tarifa, Companhia Aérea, Regra e Classe de Tarifa em ambos os componentes, e onde não existem sobretaxas de milhagem e/ou HIP diferentes na unidade de precificação."
+    },
+    "miscellaneous charges order": {
+      "definition (pt-br)": "Um documento emitido por uma companhia aérea ou seus agentes solicitando a emissão de uma passagem de passageiro e despacho de bagagem apropriados, ou a prestação de serviços à pessoa nomeada em tal documento."
+    },
+    "Miscellaneous Provisions": {
+      "definition (pt-br)": "Categoria 23. Contém informações diversas que não são específicas da categoria. Não deve ser usado para criar tarifas não publicadas ou tarifas construídas; para rateio, cálculo de reembolso ou ajustes de moeda; ou como tarifas proporcionais."
+    },
+    "MITA": {
+      "definition (pt-br)": "Manual de Acordos de Tráfego Interline Multilateral"
+    },
+    "ML": {
+      "definition (pt-br)": "Aprendizado de máquina."
+    },
+    "Modify fares": {
+      "definition (pt-br)": "Uma função que permite que as tarifas sejam alteradas ou canceladas dentro de um lote de tarifas."
+    },
+    "modularity": {
+      "definition (pt-br)": "Uma estrutura de TI que permite que módulos independentes que executam diversas tarefas trabalhem juntos em um sistema coeso."
+    },
+    "most significant carrier": {
+      "definition (pt-br)": "1. A companhia aérea cujas regras de bagagem serão aplicadas nas viagens. 2. Para viagens que são obrigadas a seguir as reservas do DOT, é a primeira companhia aérea de marketing mais significativa na viagem, conforme determinado por estas condições, e os encargos para estas viagens são aplicados por direção: a. Para viagens entre duas ou mais áreas de Conferência de Tarifas, a companhia aérea que realiza o transporte no primeiro setor na viagem do passageiro que cruza de uma área para outra. Exceção: TC123 apenas, a companhia aérea que fornece transporte no primeiro setor na viagem do passageiro que cruza entre TC1 e TC2. b. Para viagens entre subáreas da Conferência de Tarifas, a companhia aérea que realiza o transporte no primeiro setor na viagem do passageiro que cruza de uma subárea para outra. c. Para viagens dentro de uma subárea da Conferência de Tarifas, a companhia aérea que realiza o transporte no primeiro setor internacional na viagem do passageiro. 3. Para todas as outras viagens, é a companhia aérea operadora mais significativa para cada porção despachada, e os encargos para estas viagens são aplicados por porção despachada: a. Para viagens entre duas ou mais áreas de Conferência de Tarifas, a companhia aérea que realiza o transporte no primeiro setor na porção despachada que cruza de uma área para outra. Exceção: TC123 apenas, a companhia aérea que fornece transporte no primeiro setor na porção despachada que cruza entre TC1 e TC2. b. Para viagens entre subáreas da Conferência de Tarifas, a companhia aérea que realiza o transporte no primeiro setor na porção despachada que cruza de uma subárea para outra. c. Para viagens dentro de uma subárea da Conferência de Tarifas, a companhia aérea que realiza o transporte no primeiro setor internacional na porção despachada. d. Para viagens dentro de um único país, a primeira companhia aérea na porção despachada."
+    },
+    "MPD": {
+      "definition (pt-br)": "Documento Multiuso; um documento contabilizável que pode ser emitido para um uso específico (como Bilhete de Excesso de Bagagem), ou para um uso não especificado, para cobrir encargos diversos."
+    },
+    "MPM": {
+      "definition (pt-br)": "Milhagem máxima permitida."
+    },
+    "MSP": {
+      "definition (pt-br)": "Preço mínimo de venda pelo qual a tarifa pode ser vendida; definido pela companhia aérea publicadora."
+    },
+    "multi-stop": {
+      "definition (pt-br)": "Um serviço de transporte com um único número de voo fazendo duas ou mais paradas intermediárias."
+    },
+    "multilateral fare agreement": {
+      "definition (pt-br)": "Um acordo entre três ou mais parceiros comerciais para enviar dados ou processar dados de uma maneira específica."
+    },
+    "MVS": {
+      "definition (pt-br)": "Armazenamento Virtual Múltiplo."
+    }
+  },
+  "N": {
+    "national": {
+      "definition (pt-br)": "Uma pessoa que possui cidadania de um determinado país, seja por nascimento ou naturalização. Também chamado de cidadão."
+    },
+    "Native 3270 display": {
+      "definition (pt-br)": "Refere-se à tela de exibição do mainframe de sessão IBM 3270. Também chamado de eConnect."
+    },
+    "NDC": {
+      "definition (pt-br)": "New Distribution Capability (Nova Capacidade de Distribuição)."
+    },
+    "NDC Exchange": {
+      "definition (pt-br)": "Uma solução pertencente à indústria que serve como um hub neutro para conectar companhias aéreas com vendedores, enquanto realiza a tradução de mensagens em tempo real, que suporta muitos padrões e versões da indústria."
+    },
+    "Negotiated Fare Restrictions": {
+      "definition (pt-br)": "Categoria 35. Identifica os requisitos de segurança de emissão de bilhetes e criação de tarifas aplicáveis para tarifas negociadas e também pode ser usado para outras tarifas privadas."
+    },
+    "Negotiated Fares": {
+      "definition (pt-br)": "Tarifas negociadas são tarifas privadas que não são exibidas publicamente e têm distribuição limitada, conforme designado pelo proprietário da tarifa. Uma distinção fundamental entre as tarifas negociadas e outras tarifas privadas é que a ATPCO identificará explicitamente as tarifas negociadas e indicará o tipo de valores de tarifa (líquido ou de venda) contidos no arquivo. A ATPCO mantém muitas tarifas privadas que não se enquadram no processo de tarifas negociadas. Um proprietário de dados pode ter tarifas privadas que são negociadas e não negociadas."
+    },
+    "NET": {
+      "definition (pt-br)": "Negotiated Ticketing Agreement (Acordo de Bilhetagem Negociada)."
+    },
+    "net fare amount": {
+      "definition (pt-br)": "O valor que uma companhia aérea está disposta a aceitar da agência (ou consolidadora) para uma tarifa negociada; ou seja, o valor que é remetido à companhia aérea pelo agente através do ARC/BSP após a dedução da comissão."
+    },
+    "net net": {
+      "definition (pt-br)": "O valor devido à companhia aérea por uma tarifa de passageiro após o pagamento de todas as comissões e incentivos."
+    },
+    "net submit amount": {
+      "definition (pt-br)": "O valor que é remetido à companhia aérea pelo agente através do ARC/BSP após a dedução da comissão."
+    },
+    "New Distribution Capability": {
+      "definition (pt-br)": "Um padrão estabelecido pela IATA que permite à indústria de viagens transformar a forma como os produtos das companhias aéreas são distribuídos ao mercado."
+    },
+    "next": {
+      "definition (pt-br)": "Um lote de trabalho a ser tornado público por distribuição na próxima extração do dia. Veja também o status do lote."
+    },
+    "NML": {
+      "definition (pt-br)": "Normal."
+    },
+    "non-concurring": {
+      "definition (pt-br)": "Quando uma companhia aérea não permite que nenhuma outra companhia aérea instrua ou insira dados RBD em seu nome para transporte secundário. A companhia aérea não concordante opta por publicar dados RBD em seu próprio Registro 6 Convenção 1 para setores secundários onde ela é a transportadora. A ATPCO assume que todas as companhias aéreas não concordam, a menos que a companhia aérea forneça um acordo de concordância à ATPCO."
+    },
+    "non-directional fare": {
+      "definition (pt-br)": "Tarifas que são publicadas sem um indicador direcional (seja no registro de tarifa ou nota de rodapé). Tarifas não direcionais são geralmente tarifas domésticas dos EUA/CA."
+    },
+    "non-filed": {
+      "definition (pt-br)": "1. O status das provisões em um lote que ainda não foram distribuídas através do processo de assinatura. 2. Uma tarifa que é processada através do GFS, mas não é apresentada a nenhum governo como um registro oficial do governo."
+    },
+    "NONEC": {
+      "definition (pt-br)": "Membro não pertencente à Comunidade Europeia."
+    },
+    "nonstop flights": {
+      "definition (pt-br)": "Um serviço de transporte no mesmo número de voo sem quaisquer paradas intermediárias (paradas incluem voos de medição e funil)."
+    },
+    "notification": {
+      "definition (pt-br)": "Anteriormente chamados de boletins, um método primário de comunicação entre a ATPCO e os clientes. As notificações são postadas no site do Centro de Atendimento ao Cliente e os participantes podem optar por receber notificações por e-mail."
+    },
+    "NTA (A)": {
+      "definition (pt-br)": "National Transportation Authority (Aviation) - Autoridade Nacional de Transportes (Aviação)."
+    },
+    "NUC": {
+      "definition (pt-br)": "Unidade neutra de construção. NUC é uma maneira comum de expressar tarifas em todo o mundo que serão estabelecidas nas centenas de moedas diferentes dos países de origem. Substituiu a unidade de construção de tarifas (FCU) da IATA."
+    }
+  },
+  "O": {
+    "O&D": {
+      "definition (pt-br)": "Origem e Destino. Refere-se aos pontos de partida e chegada da jornada de cada passageiro. O número de O&Ds também indica o tamanho e a complexidade da rede de rotas de uma companhia aérea, tornando-os úteis para análise na gestão de tarifas e gestão de rendimento."
+    },
+    "OA": {
+      "definition (pt-br)": "Código definido pela IATA usado para taxas de reserva (opcional, apenas para a transportadora validadora, não interlineable)."
+    },
+    "OAG": {
+      "definition (pt-br)": "Guias Oficiais de Companhias Aéreas."
+    },
+    "OAL": {
+      "definition (pt-br)": "Todas as outras companhias aéreas. Usado no produto RBD para indicar que as provisões codificadas se aplicam às tarifas de todas as outras transportadoras."
+    },
+    "OB": {
+      "definition (pt-br)": "Código definido pela IATA usado para taxas de emissão de bilhetes (opcional, apenas para a transportadora validadora, não interlineable)."
+    },
+    "OC": {
+      "definition (pt-br)": "Código definido pela IATA usado para serviço opcional relacionado à tarifa ou taxas de serviço de 'quebra de regra' (opcional, apenas para a transportadora validadora, não interlineable)."
+    },
+    "offer": {
+      "definition (pt-br)": "A combinação do produto de tarifa e preço (voo) com todos os serviços complementares associados, agrupados ou à la carte. Refere-se a tudo que uma companhia aérea apresenta a um viajante antes de uma venda, incluindo dados de divulgação. Veja também 'order'."
+    },
+    "offer creation": {
+      "definition (pt-br)": "O ato de construir uma oferta completa para um consumidor, independentemente de como ela é criada (arquivamento de tarifa, canal direto, precificação dinâmica). Veja também 'offer'."
+    },
+    "offer distribution": {
+      "definition (pt-br)": "O ato de tornar uma oferta disponível para um consumidor, independentemente de como ela é transmitida (arquivo de assinatura simples, NDC, API, mecanismo de precificação dinâmica), para que os dados sejam operáveis em qualquer sistema e integrem o máximo de informações possível."
+    },
+    "offer management": {
+      "definition (pt-br)": "1. O processo onde um agente de viagens ou canal solicita uma oferta com preço de uma companhia aérea, e a companhia aérea cria e propõe a oferta ao solicitante. Este processo pode incluir o produto de tarifa completo, merchandising, conteúdo rico e serviços de terceiros, e pode ter a capacidade de usar precificação dinâmica e personalização. Veja também 'fare management' e 'order management'. 2. O ato de manter produtos de tarifa, bem como produtos relacionados (tarifas, regras, serviços opcionais/complementos, etc.)."
+    },
+    "offer presentation": {
+      "definition (pt-br)": "O ato de fazer o merchandising de uma oferta para os consumidores, seja com informações básicas ou com conteúdo rico que suporte a comparação de preços, a personalização e a compra por atributo."
+    },
+    "offer store": {
+      "definition (pt-br)": "Um repositório agregado de todas as respostas de oferta."
+    },
+    "OM": {
+      "definition (pt-br)": "Gestão de pedidos (Order management)."
+    },
+    "omni-channel management": {
+      "definition (pt-br)": "A gestão consistente de conteúdo e experiência do usuário em seus próprios canais de vendas e de terceiros."
+    },
+    "OMS": {
+      "definition (pt-br)": "Sistema de gestão de pedidos (Order management system)."
+    },
+    "one-way fare": {
+      "definition (pt-br)": "1. (Tarifas US/CA) Uma tarifa identificada como Tag 1 no Registro de Tarifa ou dados de Tarifa Resultante da Categoria 25. 2. (Tarifas Internacionais) Uma tarifa identificada como Tag 1 ou Tag 3 no Registro de Tarifa ou dados de Tarifa Resultante da Categoria 25."
+    },
+    "one-way journey": {
+      "definition (pt-br)": "1. Quando a viagem é totalmente doméstica (todos os pontos de bilhete na viagem estão no mesmo país), uma viagem onde o ponto de destino não é o mesmo ponto que a origem. 2. Quando a viagem é internacional (pelo menos dois pontos de bilhete estão em países diferentes), uma viagem onde o ponto de destino não está no mesmo país que o ponto de origem."
+    },
+    "online": {
+      "definition (pt-br)": "A transferência de diferentes serviços de voos na mesma companhia aérea, ou a transferência de serviços apenas na companhia aérea primária."
+    },
+    "OODS": {
+      "definition (pt-br)": "Sistema de entrega de ofertas e pedidos (Offer and order delivery system)."
+    },
+    "OOPS": {
+      "definition (pt-br)": "Atendimento ao passageiro ONE Order."
+    },
+    "OOSD": {
+      "definition (pt-br)": "Oferta, pedido, liquidação, entrega (Offer, order, settle, deliver)."
+    },
+    "open jaw": {
+      "definition (pt-br)": "1. Uma viagem que é essencialmente de natureza de ida e volta ou circular, exceto que o ponto de partida externo e o ponto de chegada interno, ou vice-versa, não são os mesmos. 2. (Subcategoria 101, tarifas US/CA) Open Jaw de Retorno = O ponto de chegada externo e o ponto de partida interno são diferentes. Pelo menos um componente de tarifa deve ser precificado usando metade de uma tarifa de ida e volta. Open Jaw de Origem = O ponto de partida externo e o ponto de chegada interno são diferentes. Pelo menos um componente de tarifa deve ser precificado usando metade de uma tarifa de ida e volta. Open Jaw Simples = Ou o ponto de chegada externo e o ponto de partida interno são diferentes, ou o ponto de partida externo e o ponto de chegada interno são diferentes. Pelo menos um componente de tarifa deve ser precificado usando metade de uma tarifa de ida e volta. Open Jaw Duplo = Tanto o ponto de chegada externo quanto o ponto de partida interno são diferentes, e, o ponto de partida externo e o ponto de chegada interno são diferentes. Pelo menos um componente de tarifa deve ser precificado usando metade de uma tarifa de ida e volta. Open Jaw = Qualquer um dos acima. Open jaws podem consistir em dois ou mais componentes de tarifa, a menos que seja restrito de outra forma no Registro 3 da Subcategoria 101. Veja também combinações. 3. (Subcategoria 101, tarifas internacionais) Usando tarifas de meia-ida e volta aplicáveis: Open Jaw de Retorno = O ponto de chegada externo e o ponto de partida interno são diferentes. Open Jaw de Origem = O ponto de partida externo e o ponto de chegada interno são diferentes. Open Jaw Simples = Ou o ponto de chegada externo e o ponto de partida interno são diferentes, ou o ponto de partida externo e o ponto de chegada interno são diferentes. Open Jaw Duplo = Tanto o ponto de chegada externo quanto o ponto de partida interno são diferentes, e o ponto de partida externo e o ponto de chegada interno são diferentes. Open Jaw = Qualquer um dos acima. Open jaws podem consistir em dois ou mais componentes de tarifa, a menos que seja restrito de outra forma no Registro 3 da Subcategoria 101. Veja também combinações."
+    },
+    "operating carrier": {
+      "definition (pt-br)": "A companhia aérea que realmente fornece o serviço de voo (não é necessariamente mostrado no bilhete)."
+    },
+    "operating certificate": {
+      "definition (pt-br)": "Um documento emitido por um governo para uma companhia aérea, permitindo que ela opere o serviço de passageiros. Este documento é um pré-requisito para a obtenção de um código IATA de duas posições."
+    },
+    "optimized offers": {
+      "definition (pt-br)": "Ofertas dinâmicas criadas a partir de produtos e pontos de preço predefinidos com disponibilidade dinâmica. Elas são criadas usando dados ATPCO tradicionais (como tarifas, regras e serviços), disponibilidade da companhia aérea e conteúdo Routehappy. Com ofertas otimizadas, os humanos usam alguma automação e melhor tecnologia para otimizar o gerenciamento de dados."
+    },
+    "Optional Services": {
+      "definition (pt-br)": "Produto ATPCO que suporta a precificação automatizada de uma ampla gama de serviços complementares, desde comodidades tradicionais a bordo, como refeições e entretenimento, até uma variedade de opções pré e pós-voo, incluindo a venda de mercadorias. Também suporta opções para pré-pagar taxas de alteração e reembolso a uma taxa reduzida."
+    },
+    "orchestration layer": {
+      "definition (pt-br)": "O componente centralizado de um sistema modular que gerencia as interações de todos os módulos. Ele atua como o maestro que direciona o fluxo de dados e a execução de tarefas em todo o sistema. Veja também modularidade."
+    },
+    "order": {
+      "definition (pt-br)": "Um registro único do acordo de transação entre o provedor de serviços e o viajante, que inclui dados sobre serviços, pagamento, informações pessoais e outros itens. Inclui informações de venda e pós-venda do PNR, do e-ticket e dos EMDs. O pedido também contém todos os detalhes da oferta, como voos e serviços complementares e dados de divulgação. Veja também 'offer'."
+    },
+    "order management": {
+      "definition (pt-br)": "O processo em que uma companhia aérea cria, armazena e gerencia suas ofertas, lidando com diversos dados de clientes e transações para apoiar a entrega, o cumprimento e a contabilidade. O processo pode variar desde simplesmente coletar o pedido e atribuir-lhe um ID até uma abordagem de varejo sofisticada, gerenciando todos os aspectos da transação e entrega. Veja também 'offer management'."
+    },
+    "order store": {
+      "definition (pt-br)": "Onde o pedido é armazenado e mantido, incluindo um registro de todas as alterações feitas pelo viajante ou fornecedor."
+    },
+    "origin": {
+      "definition (pt-br)": "Local de início inicial da jornada, conforme mostrado no bilhete."
+    },
+    "originating": {
+      "definition (pt-br)": "O ponto de partida da unidade de precificação associada a uma localidade."
+    },
+    "OS": {
+      "definition (pt-br)": "Sistema operacional."
+    },
+    "OTA": {
+      "definition (pt-br)": "Agência de viagens online."
+    },
+    "outbound travel": {
+      "definition (pt-br)": "1. (tarifas não direcionais) Todos os componentes de tarifa dentro da unidade de precificação antes do ponto de retorno (antes do ponto de quebra de tarifa geográfica mais distante). 2. (tarifas direcionais) Todos os componentes de tarifa que são selecionados na direção da viagem do passageiro."
+    },
+    "overwater": {
+      "definition (pt-br)": "Aplica-se ao cruzar uma massa de água dentro da Área 1. Ao validar viagens sobre a água, o processamento determinará os pontos finais de um setor (cupom). Ambos os pontos finais devem estar dentro da Área 1. Quando um ponto final está dentro dos Estados Unidos/Canadá continental e o outro ponto final está fora dos Estados Unidos/Canadá continental, isso é considerado viagem sobre a água. Esta definição se aplica especificamente para setores entre os seguintes pontos: Entre EUA/CA Continental e Havaí Entre EUA/CA/Havaí/Alasca e Porto Rico/Ilhas Virgens Entre Alasca e Havaí. Entre EUA/CA Continental e Havaí Entre EUA/CA/Havaí/Alasca e Porto Rico/Ilhas Virgens Entre Alasca e Havaí"
+    },
+    "owning carrier": {
+      "definition (pt-br)": "A transportadora que possui ou publica a tarifa. Também chamada de transportadora publicadora."
+    },
+    "owning-carrier tariff": {
+      "definition (pt-br)": "Uma tarifa onde a transportadora que possui dados na tarifa também é proprietária da tarifa. Isso significa que eles têm acesso total a todos os dados da tarifa."
+    }
+  },
+  "P": {
+    "P02": {
+      "definition (pt-br)": "Nível de classe de tarifa internacional. O nível de diretório que define a combinabilidade da classe de tarifa no processo de construção de adicionais."
+    },
+    "P04": {
+      "definition (pt-br)": "Nível de zona internacional. O nível de diretório que define a área de aplicabilidade no processo de construção de adicionais."
+    },
+    "PAC": {
+      "definition (pt-br)": "Controle de Acesso de Parceiro"
+    },
+    "PADIS": {
+      "definition (pt-br)": "Normas de Intercâmbio de Dados de Passageiros e Aeroportos, que estabelecem a estrutura de mensagens e o conteúdo do código para vários requisitos de mensagens de negócios."
+    },
+    "paper tariff": {
+      "definition (pt-br)": "Uma tarifa oficialmente registrada em papel junto a um governo."
+    },
+    "PAR": {
+      "definition (pt-br)": "Sistema de Regras Automatizadas da ATPCO. Obs."
+    },
+    "parameter set": {
+      "definition (pt-br)": "Um grupo de parâmetros (instruções codificadas) que são lidos por programas em lote para selecionar e processar dados em um formato de transação. Obs."
+    },
+    "partner": {
+      "definition (pt-br)": "Uma organização identificada pelo proprietário da tarifa que tem algum nível de autoridade sobre os dados do proprietário da tarifa."
+    },
+    "Partner Access Control": {
+      "definition (pt-br)": "Anteriormente conhecido como PASS, o Controle de Acesso de Parceiro permite que a organização proprietária dos dados autorize os usuários de organizações parceiras a visualizar, criar ou atualizar alterações em dados de regras, notas de rodapé, tarifas e/ou adicionais."
+    },
+    "partnership": {
+      "definition (pt-br)": "Um acordo entre um proprietário de dados e outra organização, ou várias organizações, que permite o acesso aos dados do provedor nos bancos de dados da ATPCO. As parcerias são gerenciadas por meio de instruções para a ATPCO, e as organizações parceiras podem ser outras companhias aéreas ou fornecedores, como uma empresa de terceirização de processos de negócios (BPO)."
+    },
+    "PASS": {
+      "definition (pt-br)": "Sistema de Segurança de Acesso de Parceiro da ATPCO. Permite que uma organização (o parceiro) visualize, imprima, crie ou atualize alterações em regras e notas de rodapé especificadas de outra organização (o proprietário). Os parceiros com acesso remoto poderão então acessar os dados do proprietário usando seus logins atuais. Este acesso está disponível para tarifas públicas e privadas e para dados arquivados e não arquivados. Para invocar o acesso através deste sistema, o proprietário deve enviar uma instrução por escrito autorizando dados específicos para cada parceiro. Agora chamado de Controle de Acesso de Parceiro."
+    },
+    "Passenger Air Tariff": {
+      "definition (pt-br)": "Uma publicação impressa publicada pela IATA e SITA que contém regras gerais, regras de tarifas, tarifas, adicionais e rotas mundiais para companhias aéreas selecionadas."
+    },
+    "passenger service system": {
+      "definition (pt-br)": "Este componente essencial das operações de uma companhia aérea normalmente inclui um sistema de cotação de tarifas, um sistema de reservas (venda de passagens), gerenciamento de inventário (assentos disponíveis em cada classe de reserva) e um sistema de controle de partida (check-in de passageiros)."
+    },
+    "passenger type": {
+      "definition (pt-br)": "Códigos que especificam que um passageiro se qualifica como um tipo específico, como criança acompanhada, militar, standby, idoso ou acompanhante. Os tipos válidos são exibidos em uma tela de ajuda no sistema FareManager Rules e estão listados no Apêndice A da documentação do usuário do Automated Rules."
+    },
+    "PAT": {
+      "definition (pt-br)": "Tarifa Aérea de Passageiros."
+    },
+    "PAX": {
+      "definition (pt-br)": "Passageiro."
+    },
+    "PCC": {
+      "definition (pt-br)": "Código de Pseudo Cidade."
+    },
+    "PDEW": {
+      "definition (pt-br)": "Passageiros por Dia Cada Sentido. Uma medida de capacidade total de mercados individuais. Mede quantos passageiros, em média, viajam entre duas cidades a cada dia."
+    },
+    "PDP": {
+      "definition (pt-br)": "Plano de Desenvolvimento de Projeto."
+    },
+    "Penalties": {
+      "definition (pt-br)": "Categoria 16. Descreve as penalidades e encargos aplicáveis para exibição e alterações manuais de bilhetes. Também é usado para especificar as condições sob as quais o redirecionamento pode ocorrer ou os bilhetes podem ser reemitidos. Esta categoria é menos utilizada agora que as alterações automatizadas (Categoria 31) e os reembolsos (Categoria 33) podem ser processados."
+    },
+    "permanent resident": {
+      "definition (pt-br)": "Uma pessoa que vive legalmente em um determinado país. Também chamado de residente."
+    },
+    "Permitted Combinations": {
+      "definition (pt-br)": "Categoria 10. Especifica como uma tarifa pode ser combinada com outras tarifas, incluindo diferentes tipos de bilhetes ou classes de tarifa para viagens de ida e volta, open jaws (voar para uma cidade e retornar de outra) e circle trips (voar para vários destinos e retornar ao ponto de partida). Por exemplo, combinar um bilhete só de ida na classe econômica com um voo de volta na classe executiva."
+    },
+    "personalization": {
+      "definition (pt-br)": "A customização de produtos, serviços e preços para atender às necessidades, preferências e comportamentos exclusivos de viajantes individuais ou segmentos de clientes específicos. Envolve o aproveitamento de insights do cliente, como histórico de viagens, status de fidelidade, dados demográficos e contexto em tempo real para fornecer ofertas altamente relevantes e significativas que aprimorem a experiência de viagem e impulsionem a satisfação e a fidelidade do cliente."
+    },
+    "PFC": {
+      "definition (pt-br)": "Taxa de Instalação para Passageiros."
+    },
+    "PFMP": {
+      "definition (pt-br)": "Manual de Fator de Rateio da IATA."
+    },
+    "PI1": {
+      "definition (pt-br)": "Registro ATPCO contendo dados fornecidos pela IATA que armazena taxas de conversão de moedas para NUCs. As taxas de câmbio são normalmente atualizadas trimestralmente. É usado em mecanismos de construção de tarifas para converter adicionais e tarifas, calcular o total, construir a tarifa e, em seguida, converter o valor final para a moeda apropriada."
+    },
+    "PI2": {
+      "definition (pt-br)": "Registro ATPCO contendo dados fornecidos pela IATA que lista os países que publicam tarifas em dólares americanos ou euros e armazena taxas de conversão da moeda nativa para NUCs. As taxas de câmbio são normalmente atualizadas trimestralmente. É codificado com o único propósito de apoiar o produto de assinatura de Dados de Construção."
+    },
+    "PIPPS": {
+      "definition (pt-br)": "Sistema de Precificação/Rateio Interline de Passageiros da ATPCO. Um sistema online usado pelos departamentos de contabilidade de receita de companhias aéreas para obter informações históricas de tarifas e rateios para dividir a receita de bilhetes que cobrem transporte conjunto."
+    },
+    "PIT": {
+      "definition (pt-br)": "Tarifa Internacional de Passageiros."
+    },
+    "plating carrier": {
+      "definition (pt-br)": "Ver companhia aérea validadora."
+    },
+    "PLF": {
+      "definition (pt-br)": "Tarifas Locais de Passageiros US/CA."
+    },
+    "PMP": {
+      "definition (pt-br)": "Manual de Rateio - Passageiro."
+    },
+    "PNL": {
+      "definition (pt-br)": "Penalidade."
+    },
+    "PNR": {
+      "definition (pt-br)": "Registro de Nome de Passageiro, ou Registro de Nome Pessoal, é o código de seis caracteres que é a referência para uma reserva. Isso é criado no momento da reserva e contém os detalhes de identificação do viajante (nome, informações do passaporte), bem como as informações de tarifa, bilhete e pagamento."
+    },
+    "PNR Wrap-Up": {
+      "definition (pt-br)": "Uma mensagem enviada consolidando todos os detalhes do PNR, incluindo informações de passageiro, itinerário e taxas, que fornece uma atualização para os sistemas downstream para permitir o atendimento ao passageiro."
+    },
+    "POA": {
+      "definition (pt-br)": "1. Procuração. 2. Período de aplicação."
+    },
+    "PODS": {
+      "definition (pt-br)": "Simulador de Origem-Destino de Passageiros"
+    },
+    "PODS Research LLC": {
+      "definition (pt-br)": "Um grupo de pesquisa de gerenciamento de receita que permite uma simulação realista da interação entre a escolha do passageiro e o gerenciamento de receita em mercados competitivos de companhias aéreas."
+    },
+    "point of turnaround": {
+      "definition (pt-br)": "Ponto de quebra de tarifa geográfica mais distante na unidade de precificação, medido a partir da origem da unidade de precificação; não aplicável em uma unidade de precificação só de ida. Também chamado de turnaround."
+    },
+    "portion of travel": {
+      "definition (pt-br)": "Um ou mais setores consecutivos."
+    },
+    "positional match": {
+      "definition (pt-br)": "Permite que os dados tradicionais relacionados à tarifa sejam identificados dependendo do caractere alfanumérico em uma posição específica no Código da Classe de Tarifa. Muitas companhias aéreas implementaram uma taxonomia de Código da Classe de Tarifa onde os valores em cada posição são usados para identificar critérios relevantes de produto e marca e podem ser usados para alinhar entre parceiros. Usar a funcionalidade de correspondência posicional permite que uma companhia aérea defina melhor as condições de regra e outras condições específicas para um produto ou marca."
+    },
+    "post-reporting": {
+      "definition (pt-br)": "Ver backend."
+    },
+    "posting an order": {
+      "definition (pt-br)": "O ato de fornecer detalhes sobre um pedido concluído para que os dados possam alimentar processos downstream, como atendimento e liquidação."
+    },
+    "power of attorney": {
+      "definition (pt-br)": "Permissão dada por uma transportadora para que a ATPCO seja seu agente. O DOT ou CTA deve ter prova desta transação e deve dar à ATPCO um número de POA mostrando que tem documentação da permissão da transportadora dada à ATPCO."
+    },
+    "priceable unit": {
+      "definition (pt-br)": "Ver unidade de precificação."
+    },
+    "pricing department": {
+      "definition (pt-br)": "Departamento da companhia aérea que determina as tarifas. Também chamado de departamento de tarifas."
+    },
+    "pricing solution": {
+      "definition (pt-br)": "Uma combinação de tarifas que é considerada uma possibilidade para uma taxa desejada para um passageiro."
+    },
+    "pricing unit": {
+      "definition (pt-br)": "1. Uma tarifa só de ida que é qualificada em seus próprios termos, independentemente de qualquer outro componente de tarifa. 2. Combinação de dois ou mais componentes de tarifa onde um ou mais dos componentes dependem de todos os outros para se qualificarem para precificação automática. Também chamado de unidade precificável."
+    },
+    "prime booking code": {
+      "definition (pt-br)": "Ver código de reserva."
+    },
+    "private": {
+      "definition (pt-br)": "1. Um tipo de status de lote indicando que os dados contidos no lote não foram distribuídos no processo de assinatura. Ver status de lote. 2. Dados com restrições sobre quem pode visualizá-los e vendê-los."
+    },
+    "private fare": {
+      "definition (pt-br)": "Tarifas privadas são tarifas com uma limitação de distribuição e uso, conforme designado pelo proprietário da tarifa. Essas tarifas são mantidas pela ATPCO em tarifas privadas. Ver também tarifas negociadas."
+    },
+    "private tariff": {
+      "definition (pt-br)": "Uma tarifa solicitada por uma transportadora ou outra entidade para seu próprio uso privado. Qualquer regra de tarifa, taxa ou dados de nota de rodapé colocados em uma tarifa privada são enviados e visualizados apenas pelo proprietário e por aqueles designados pelo proprietário."
+    },
+    "process tag": {
+      "definition (pt-br)": "Identificadores do sistema FareManager Rules que indicam quais tarifas de substituição usar e sob quais circunstâncias usá-las ao processar a solicitação de reemissão de bilhete de um cliente."
+    },
+    "processing standards": {
+      "definition (pt-br)": "Padrões técnicos que documentam o processamento exigido pelos destinatários de dados no formato prescrito pelos padrões de interface relacionados para alcançar o resultado pretendido (geralmente um resultado de precificação ou varejo), independentemente do sistema que processa os dados."
+    },
+    "product": {
+      "definition (pt-br)": "Qualquer item que possa ser oferecido a um cliente (como ar e/ou outros tipos de transporte, porções de transporte, quaisquer bens e comodidades, etc.). Por exemplo, um Produto pode ser o serviço de transporte real (direito de viajar), um produto físico (como assentos e refeições) ou um produto intangível (como flexibilidade e embarque prioritário). Também chamado de produto atômico."
+    },
+    "Product Catalog": {
+      "definition (pt-br)": "Um padrão de dados definido que permite uma troca eletrônica dos dados sobre os produtos e serviços que uma empresa tem a oferecer. O nível de informação que será disponibilizado com o catálogo depende de quem está solicitando/recebendo o catálogo para consumo interno e de terceiros, conforme listado no Catálogo da Companhia Aérea, Catálogo do Fornecedor e Perfil da Companhia Aérea."
+    },
+    "prop": {
+      "definition (pt-br)": "Proposta. Um número para identificar um grupo de registros com uma tarifa. Obs."
+    },
+    "prorate": {
+      "definition (pt-br)": "Dividir a receita interline ou online de acordo com acordos multilaterais ou bilaterais da indústria."
+    },
+    "provision": {
+      "definition (pt-br)": "1. Condições de regra que se aplicam a uma tarifa, como uma estadia máxima de cinco dias. 2. (Taxas de Serviço) Condições que se aplicam a um serviço, como a quem um serviço se aplica e quanto custa."
+    },
+    "pset": {
+      "definition (pt-br)": "Ver conjunto de parâmetros."
+    },
+    "pseudo Record 1": {
+      "definition (pt-br)": "Um Registro 1 virtual é criado pelo assinante quando um Registro 1 real não existe. Ele contém as informações necessárias do Registro 1, conforme determinado pelos dados de tarifa resultantes fornecidos nas categorias apropriadas de criação de tarifa (como Categorias 19-22 ou 25) e é usado para processamento, emissão de bilhetes e contabilidade de receita."
+    },
+    "psgr type": {
+      "definition (pt-br)": "Tipo de passageiro."
+    },
+    "PSS": {
+      "definition (pt-br)": "Sistema de serviço de passageiros."
+    },
+    "PTA": {
+      "definition (pt-br)": "Aviso de Bilhete Pré-pago."
+    },
+    "PTC": {
+      "definition (pt-br)": "Código de tipo de passageiro. Ver também tipo de passageiro."
+    },
+    "public": {
+      "definition (pt-br)": "Um tipo de status de lote indicando que os dados contidos no lote foram distribuídos no processo de assinatura. Ver também status de lote."
+    },
+    "public fare": {
+      "definition (pt-br)": "Uma tarifa que está disponível para o público em geral para compra. Ver também tarifa privada."
+    },
+    "public tariff": {
+      "definition (pt-br)": "Uma tarifa cujos dados estão disponíveis para visualização por qualquer organização uma vez que seja processada através do GFS. Também chamada de tarifa publicada."
+    },
+    "published fare": {
+      "definition (pt-br)": "1. O termo da indústria para uma tarifa disponível para o público em geral para compra; geralmente chamado de tarifa pública na ATPCO. 2. (aplicação de dados) Termo ATPCO para tarifas de ida e volta ou só de ida publicadas no registro de tarifa ATPCO. Também chamado de especificado. Essas tarifas podem ou não ter distribuição limitada (ser tarifas privadas)."
+    },
+    "published fare amount": {
+      "definition (pt-br)": "A tarifa arquivada e disponível usada para cálculo de tarifa e/ou exibição de emissão de bilhetes para criar valores de Venda ou Líquidos."
+    },
+    "publishing carrier": {
+      "definition (pt-br)": "A transportadora que possui ou publica a tarifa. Também chamada de transportadora proprietária."
+    },
+    "purge": {
+      "definition (pt-br)": "Um programa que remove dados expirados ou indesejados do arquivo mestre."
+    }
+  },
+  "Q": {
+    "QA": {
+      "definition (pt-br)": "Garantia da qualidade."
+    },
+    "QM": {
+      "definition (pt-br)": "Gestão da qualidade."
+    },
+    "qualifying category": {
+      "definition (pt-br)": "A categoria condicional que contém as informações que devem ser atendidas para que a categoria principal seja validada. Ver também categoria principal."
+    },
+    "quantum pricing": {
+      "definition (pt-br)": "Um tipo de precificação otimizada onde as companhias aéreas fazem atualizações frequentes na determinação automatizada de preços e carregam APIs, e então ajustam a disponibilidade de voos, vinculada a produtos tarifários, para clientes específicos ou em situações específicas."
+    },
+    "query": {
+      "definition (pt-br)": "Uma facilidade de visualização que permite a exibição de registros no arquivo de banco de dados sem atualização. Uma companhia aérea que utiliza esta facilidade pode visualizar todos os seus próprios registros e os registros públicos de todas as outras companhias aéreas. Um analista da ATPCO pode visualizar todos os registros de todas as companhias aéreas. Cada conjunto de critérios contém uma ou mais consultas (queries). As consultas têm quatro partes: Critérios de Inclusão, Critérios de Exclusão, Critérios de Alteração e Critérios de Correspondência."
+    },
+    "query set": {
+      "definition (pt-br)": "Um grupo de múltiplas consultas (queries) que são usadas para visualizar os mesmos dados de diferentes tarifas."
+    }
+  },
+  "R": {
+    "R&D": {
+      "definition (pt-br)": "Pesquisa e desenvolvimento."
+    },
+    "RACF": {
+      "definition (pt-br)": "Resource Access Control Facility (Instalação de Controle de Acesso a Recursos). RACF é a ferramenta de segurança da IBM usada para proteger todos os recursos do mainframe contra uso não autorizado."
+    },
+    "RASK": {
+      "definition (pt-br)": "Receita por assento-quilômetro médio. Uma medida de desempenho financeiro para uma companhia aérea, calculada dividindo a receita total por voo pelos ASKs do voo. Nos Estados Unidos, é usado o RASM (receita por assento-milha médio)."
+    },
+    "RASS": {
+      "definition (pt-br)": "Revenue Accounting Settlement Services (Serviços de Liquidação de Contas de Receita), estes são produtos e ferramentas que a ATPCO fornece para auxiliar nos processos de liquidação interline."
+    },
+    "RATD": {
+      "definition (pt-br)": "Revenue Accounting Tax Database (Banco de Dados de Impostos de Contabilidade de Receita). Um snapshot mensal abrangente e automatizado de todos os impostos interlineáveis que fornece à companhia aérea acesso aos impostos a serem usados para liquidação mensal."
+    },
+    "rate": {
+      "definition (pt-br)": "Um preço por quilograma ou por libra para o transporte de carga."
+    },
+    "rate desk": {
+      "definition (pt-br)": "Departamento da companhia aérea que determina as tarifas. Também chamado de departamento de precificação."
+    },
+    "rate type": {
+      "definition (pt-br)": "Uma designação do tipo de tarifa a ser cobrada, seja commodity geral, commodity específica, contrato ou outro tipo de tarifa."
+    },
+    "RBD": {
+      "definition (pt-br)": "Reservation booking designator (Designador de reserva). Também chamado de código de reserva primário ou código de reserva."
+    },
+    "RDS": {
+      "definition (pt-br)": "Retail delivery system (Sistema de entrega no varejo)."
+    },
+    "re-pricing": {
+      "definition (pt-br)": "O processo de análise de regras e condições para uma nova passagem para substituir uma passagem não utilizada ou parcialmente utilizada."
+    },
+    "record": {
+      "definition (pt-br)": "1. A informação-chave computadorizada, incluindo informações de tarifa e taxa usadas pelos CRSs durante a precificação automática para validar informações de tarifa codificadas. 2. Estrutura do sistema de Regras FareManager que compreende oito tipos de registro diferentes. Esses registros servem a diferentes funções no processamento de uma tarifa e são acessados individualmente para serem trabalhados ou visualizados no sistema de Regras FareManager."
+    },
+    "Record 0 (General Rules)": {
+      "definition (pt-br)": "1. (Convenção 2) Identifica a tarifa de origem e a regra geral a ser aplicada para cada categoria. 2. (Convenção 3) Os números de regra válidos enviados através do sistema da ATPCO."
+    },
+    "Record 1": {
+      "definition (pt-br)": "Registro de Aplicação da Classe Tarifária. O Registro 1 contém todos os códigos de classe tarifária que são codificados em uma combinação específica de tarifa, companhia aérea e regra."
+    },
+    "Record 2": {
+      "definition (pt-br)": "Registro de Controle de Categoria. O Registro 2 contém campos de identificação que correspondem à tarifa, Registro 1 ou Registro 8."
+    },
+    "Record 3": {
+      "definition (pt-br)": "Uma tabela de dados usada para abrigar as disposições da regra. Este registro contém os dados codificados reais que fornecem as disposições detalhadas para aplicar a uma tarifa de uma regra ou nota de rodapé."
+    },
+    "Record 4": {
+      "definition (pt-br)": "Registro de Controle de Categoria de Renumeração. Este registro é usado para manter os dados atuais no Registro 2 enquanto ele está em processo de renumeração."
+    },
+    "Record 5": {
+      "definition (pt-br)": "Registro de Aplicação da Classe Tarifária de Renumeração. Este registro é usado para manter os dados atuais no Registro 1 enquanto ele está em processo de renumeração."
+    },
+    "Record 6": {
+      "definition (pt-br)": "Registro de Designadores de Reserva (RBD). Este registro declara quaisquer exceções de código de reserva ao código de reserva primário usando o Gráfico 1 e o Gráfico 2. O Registro 6 contém os critérios de identificação que devem ser correspondidos para determinar as exceções de código de reserva adequadas para essa tarifa."
+    },
+    "Record 6 Convention 1": {
+      "definition (pt-br)": "Informações RBD padrão para a companhia aérea de marketing que está na passagem, mas não é proprietária da tarifa (o proprietário da tarifa é outra companhia aérea). O mesmo que o Gráfico 2."
+    },
+    "Record 6 Convention 2": {
+      "definition (pt-br)": "Informações RBD para a companhia aérea proprietária da tarifa (além do RBD primário) e para as companhias aéreas secundárias que participam da tarifa. Contém informações sobre exceções ao RBD primário. O mesmo que o Gráfico 1."
+    },
+    "Record 8": {
+      "definition (pt-br)": "Registro de Índice de Tarifa Por Regra. Este registro é usado para identificar as tarifas que podem ser usadas no processo de recuperação de tarifa para a categoria Tarifa Por Regra."
+    },
+    "record layout": {
+      "definition (pt-br)": "Uma ilustração dos campos de dados e suas posições para um produto específico."
+    },
+    "Record S1": {
+      "definition (pt-br)": "O registro que contém dados de Taxas Impostas pela Companhia Aérea (YQ/YR) na ATPCO."
+    },
+    "Record S2": {
+      "definition (pt-br)": "O registro que contém dados de Concordância de Taxas Impostas pela Companhia Aérea na ATPCO."
+    },
+    "Record S4": {
+      "definition (pt-br)": "O registro que contém dados de Taxas de Emissão de Passagens na ATPCO."
+    },
+    "Record S5": {
+      "definition (pt-br)": "O registro que contém dados de Serviços de Subcódigo de Serviços Opcionais, incluindo Bagagem, na ATPCO."
+    },
+    "Record S6": {
+      "definition (pt-br)": "O registro que contém dados de Concordância de Serviços Opcionais na ATPCO."
+    },
+    "Record S7": {
+      "definition (pt-br)": "O registro que contém dados de Disposições de Serviços Opcionais, incluindo Bagagem, na ATPCO."
+    },
+    "Record S8": {
+      "definition (pt-br)": "O registro que contém dados de Tarifas de Marca na ATPCO."
+    },
+    "Record X1": {
+      "definition (pt-br)": "O registro que contém dados de Regras de Imposto na ATPCO."
+    },
+    "Record X2": {
+      "definition (pt-br)": "O registro que contém dados de Relatórios de Imposto na ATPCO."
+    },
+    "recurring segment": {
+      "definition (pt-br)": "Uma porção de um registro que pode ser repetida. O segmento recorrente é precedido por um contador indicando quantas vezes a porção recorrente ocorre. O uso de segmentos recorrentes resulta em um comprimento variável, dependendo do número de segmentos recorrentes que estão incluídos no registro."
+    },
+    "refunds": {
+      "definition (pt-br)": "Ver Reembolsos Automatizados."
+    },
+    "reissue": {
+      "definition (pt-br)": "De acordo com a Resolução IATA 017f, uma reemissão é uma mudança que não seja uma mudança para a companhia aérea, voo, data, classe de serviço ou setor do primeiro cupom de voo. As tarifas a serem usadas serão baseadas nas tarifas em vigor na data da emissão original e aplicáveis no momento do início do transporte (ou seja, usando tarifas históricas). Veja também troca."
+    },
+    "relational indicator": {
+      "definition (pt-br)": "O primeiro campo a ser preenchido em qualquer categoria, indica a relação entre as tabelas de dados. O indicador relacional para a tabela inicial em qualquer categoria é THEN. Outros indicadores relacionais são AND, OR, IF, ELSE."
+    },
+    "release": {
+      "definition (pt-br)": "Um tipo de ação em lote que cria um lote, envia os resultados através do processo de validação, aplica as transações ao banco de dados e torna o lote disponível para arquivamento (Internacional) ou distribuição (EUA/CA)."
+    },
+    "remittance amount": {
+      "definition (pt-br)": "O valor recebido pela companhia aérea pela passagem através de ARC/BSP."
+    },
+    "reseller": {
+      "definition (pt-br)": "Um indivíduo ou organização que recebe autoridade do proprietário da tarifa para vender a tarifa, mas que não pode atualizar a tarifa."
+    },
+    "reservation booking designator": {
+      "definition (pt-br)": "O código primário de uma ou duas letras que é usado em um CRS/GDS para identificar a classe de serviço na qual reservar um passageiro ou a tarifa em uma exibição de disponibilidade. Também chamado de código de reserva."
+    },
+    "reservations": {
+      "definition (pt-br)": "Um sistema de TI da companhia aérea que processa as informações do itinerário, adiciona informações de passageiros e pagamentos e emite a passagem. Este sistema também armazena o itinerário, processa quaisquer alterações/reembolsos e envia as informações para o Sistema de Controle de Partida da companhia aérea antes que o passageiro voe."
+    },
+    "resident": {
+      "definition (pt-br)": "Uma pessoa que vive legalmente em um determinado país. Também chamado de residente permanente."
+    },
+    "resolve": {
+      "definition (pt-br)": "O processo de combinar um registro ATPCO com outros registros ATPCO para construir uma associação completa com a tarifa ATPCO."
+    },
+    "result set": {
+      "definition (pt-br)": "Exibição de dados gerados por uma consulta, mudança de data de validade, refile ou função de cópia."
+    },
+    "resulting fare": {
+      "definition (pt-br)": "O valor final da tarifa e as informações de classe tarifária de suporte produzidas a partir de todas as etapas na Categoria 25 ou nas Categorias 19-22."
+    },
+    "RET": {
+      "definition (pt-br)": "Reporting Tape (Fita de Relatório). No Processo de Relatório Net Remit, o arquivo RET contém as transações que os agentes efetuaram em nome das companhias aéreas participantes do BSP, bem como outros documentos responsáveis."
+    },
+    "Retailer": {
+      "definition (pt-br)": "Em ofertas dinâmicas, outro nome para a companhia aérea de marketing que está vendendo a oferta para o passageiro."
+    },
+    "retailing": {
+      "definition (pt-br)": "Termo guarda-chuva para todo o ciclo de vida de uma tarifa ou oferta, desde a pré-venda que começa com a criação da oferta por uma companhia aérea, até o ponto de venda, quando um viajante compra uma passagem e os fundos são liquidados, até a pós-venda, se e quando o viajante exigir serviço ou suporte."
+    },
+    "revenue accounting": {
+      "definition (pt-br)": "1. O quadrante do ciclo de vida da tarifa onde as companhias aéreas processam, auditam e coletam as vendas de milhares de passagens. 2. (termo da indústria) Um aplicativo de TI da companhia aérea que examina as vendas de passagens passadas para alocar receita para as companhias aéreas apropriadas. Os dados de vendas são fornecidos às companhias aéreas pelos GDSs e outras fontes através do Sales Data Exchange da ATPCO, bem como sistemas internos da companhia aérea. As passagens são então rateadas com base em acordos existentes, e os resultados são enviados para o ACH ou IATA para liquidação."
+    },
+    "revenue management": {
+      "definition (pt-br)": "A prática de combinar a demanda específica de um passageiro por um produto com um preço equivalente. Desenvolvida pela indústria aérea na década de 1970, esta prática exige sistemas de dados altamente complexos e abrangentes que permitam às empresas variar o preço e a disponibilidade para diferentes segmentos de mercado, e ajustar estes conforme necessário para capturar ou aumentar a quota de mercado e a receita. Na indústria aérea, estas ações são realizadas pela gestão de rendimento no caso de alterações de inventário, e pela gestão de tarifas no caso de alterações de preços."
+    },
+    "RFIC": {
+      "definition (pt-br)": "Reason for Issuance Codes (Códigos de Motivo para Emissão). Eles são incluídos no documento EMD e determinam o motivo genérico para a emissão do documento, conforme definido na Resolução IATA JPSC 722f Anexo A."
+    },
+    "RI": {
+      "definition (pt-br)": "Relational indicator (Indicador relacional)."
+    },
+    "RIP": {
+      "definition (pt-br)": "Raster image processing (Processamento de imagem rasterizada)."
+    },
+    "RMAP": {
+      "definition (pt-br)": "Um sistema contendo informações de roteamento para tarifas domésticas e internacionais."
+    },
+    "RMS": {
+      "definition (pt-br)": "Revenue management system (Sistema de gestão de receita)."
+    },
+    "ROE": {
+      "definition (pt-br)": "Rate of Exchange (Taxa de Câmbio)."
+    },
+    "round-the-world fares": {
+      "definition (pt-br)": "(Subcategoria 103, tarifas internacionais) Viagem do ponto de origem e retorno ao mesmo, que envolve apenas uma travessia do Oceano Atlântico e apenas uma travessia do Oceano Pacífico. Note que um único componente de tarifa de volta ao mundo não valida contra as Subcategorias 102 ou 103 (a validação é apenas contra a Subcategoria 104 para determinar se End-on-End é necessário). Veja também combinações."
+    },
+    "round-trip": {
+      "definition (pt-br)": "1. (Subcategoria 102, tarifas EUA/CA) (aplicação de dados) Do ponto A ao ponto B e retorno ao ponto A na mesma tarifa, mesma companhia aérea, mesma regra e mesmo código de classe de tarifa de ida e volta. Note que se as companhias aéreas desejarem restringir a rota de viagem nas tarifas, então isso pode ser feito através do Mapa de Roteamento e/ou Categoria 4. Veja também combinações. 2. (Subcategoria 102, tarifas internacionais, excluindo tarifas de volta ao mundo) (aplicação de dados) Do ponto A ao ponto B e retorno ao ponto A usando apenas dois componentes de tarifa, para os quais a tarifa de meia-ida e volta aplicável para cada componente, medida a partir do ponto A, é a mesma para o roteamento viajado. Exceção: Se as tarifas diferirem através da classe/estação/dia da semana ou variação da companhia aérea, ainda é uma viagem de ida e volta. Note que após o processamento, se os resultados mostrarem um HIP (Ponto Intermediário Superior) diferente e/ou uma sobretaxa de milhagem diferente foi aplicada no(s) componente(s) de tarifa na unidade de precificação, então a solução de precificação acima seria considerada uma Viagem Circular. Veja também combinações."
+    },
+    "round-trip fare": {
+      "definition (pt-br)": "1. (Internacional) Uma tarifa identificada como Tag 2 no Registro de Tarifa ou dados da Tarifa Resultante da Categoria 25. 2. (EUA/CA) Uma tarifa identificada como Tag 2 no Registro de Tarifa ou dados da Tarifa Resultante da Categoria 25."
+    },
+    "round-trip journey": {
+      "definition (pt-br)": "1. Quando a viagem é totalmente doméstica (todos os pontos da passagem na viagem estão no mesmo país), uma viagem onde o ponto de destino da viagem é o mesmo ponto que o ponto de origem da viagem. 2. Quando a viagem é internacional (pelo menos dois pontos da passagem estão em países diferentes), uma viagem onde o ponto de destino da viagem está no mesmo país que o ponto de origem da viagem."
+    },
+    "Routehappy Content": {
+      "definition (pt-br)": "Três tipos de conteúdo de varejo que descrevem ofertas e serviços de tarifas de forma amigável ao consumidor. Veja também UPA, Amenities e UTA."
+    },
+    "routing": {
+      "definition (pt-br)": "Restrições em uma tarifa com base em rotas de viagem e definidas por mapas de roteamento."
+    },
+    "routing-based fare": {
+      "definition (pt-br)": "Uma tarifa que é regida por um mapa de roteamento designado ou restrição de roteamento (além de MPM)."
+    },
+    "Routings": {
+      "definition (pt-br)": "Um sistema contendo dados de mapa de roteamento e restrição que suporta o banco de dados de tarifas."
+    },
+    "RPK": {
+      "definition (pt-br)": "Revenue passenger kilometers (Passageiros-quilômetro pagos). Uma medida da indústria de tráfego, calculada multiplicando o número total de passageiros pagantes pela distância do voo."
+    },
+    "RTEXT": {
+      "definition (pt-br)": "Remote Rules Text Inquiry (Consulta Remota de Texto de Regras). RTEXT é uma imagem espelhada da tela de páginas de texto soltas (somente regras). Este sistema de consulta fornece a capacidade online de monitorar as mudanças no texto das regras dentro da indústria. As regras de tarifas domésticas e internacionais são exibidas no formato de página de tarifa contendo todas as regras arquivadas/não arquivadas que regem o transporte aéreo de passageiros e produtos de carga internacional. Várias versões de data estão disponíveis nos produtos de dados da ATPCO."
+    },
+    "RTG": {
+      "definition (pt-br)": "Sistema Routings."
+    },
+    "RTW": {
+      "definition (pt-br)": "Tarifas de volta ao mundo."
+    },
+    "rule": {
+      "definition (pt-br)": "As provisões e condições necessárias sob as quais a viagem pode ocorrer que atendam aos requisitos especiais estabelecidos por uma companhia aérea ou agência reguladora governamental. Está ligada por classe tarifária ao registro de tarifa e inclui o código de reserva e as categorias para uma determinada tarifa. As companhias aéreas escolhem os números das regras de acordo com seus regulamentos. Os números das regras são uma ajuda na precificação automática. Veja também regra tarifária."
+    }
+  },
+  "S": {
+    "S/A/F": {
+      "definition (pt-br)": "Subsidiárias/Afiliadas/Franqueadas. Entidades relacionadas ao membro ZED/MIBA que cumprem as condições de categoria individual respectiva, conforme refletido no Apêndice C do acordo ZED/MIBA."
+    },
+    "sales data": {
+      "definition (pt-br)": "Um registro do que foi vendido ou comprado no mercado (seja tarifa, serviços ancilares ou oferta combinada) e por quanto, onde e como. Também chamado de dados de desempenho do produto."
+    },
+    "Sales Restrictions": {
+      "definition (pt-br)": "Categoria 15. Usado quando a venda das tarifas é restrita por várias condições. Essas condições incluem datas de reserva e/ou emissão de bilhetes, países e/ou moedas de venda, forma de pagamento, método de emissão de bilhetes, quem pode vender a tarifa e onde a venda pode ser feita."
+    },
+    "satellite ticket printer": {
+      "definition (pt-br)": "Impressora de bilhetes remota, uma impressora de bilhetes que está fora do local."
+    },
+    "SATO": {
+      "definition (pt-br)": "Escritório de bilhetes aéreos programados."
+    },
+    "schedule data": {
+      "definition (pt-br)": "As companhias aéreas publicam dados de programação e os distribuem para todo o setor por meio de dois provedores, OAG e Innovata. Os dados de programação incluem muitas variáveis condensadas em uma única tabela, incluindo código da companhia aérea, tipo de aeronave, horários de partida e chegada, informações de code share, número de assentos disponíveis e algumas informações sobre o serviço de bordo."
+    },
+    "scoreboard": {
+      "definition (pt-br)": "Um conjunto de campos no sistema Fare Manager Rules para Combinações (Categoria 10) que fornece acesso e um resumo dos dados da subcategoria."
+    },
+    "SCR": {
+      "definition (pt-br)": "Taxa de mercadoria específica. Uma taxa que se aplica a fretes de uma descrição distinta. Essas descrições de taxas recebem um número e são listadas numericamente e alfabeticamente perto da frente da tarifa."
+    },
+    "SCSI": {
+      "definition (pt-br)": "Interface de sistema de computador pequeno."
+    },
+    "SDE": {
+      "definition (pt-br)": "Troca de dados de vendas."
+    },
+    "season type": {
+      "definition (pt-br)": "Um código que identifica a tarifa como aplicável durante um tipo específico de temporada, como Alta, Baixa ou Básica."
+    },
+    "Seasonality": {
+      "definition (pt-br)": "Categoria 3. Define as datas sazonais para uma tarifa. Assume-se que a data sazonal se aplica a partir da porção de origem da tarifa (origem da unidade precificável), o que implica que o nível sazonal em vigor para a porção de origem da tarifa é usado para todas as viagens subsequentes, independentemente da data, a menos que seja declarado de outra forma."
+    },
+    "seat pitch": {
+      "definition (pt-br)": "Uma medida numérica do espaço entre um ponto em um assento e esse mesmo ponto no assento à frente ou atrás dele. Às vezes chamado de \"pitch\"."
+    },
+    "second freedom": {
+      "definition (pt-br)": "O direito de fazer um pouso técnico para reabastecimento, etc., sem embarcar ou desembarcar tráfego de passageiros pagantes."
+    },
+    "secondary passenger": {
+      "definition (pt-br)": "O Código de Tipo de Passageiro Secundário é usado para indicar os PTCs que podem ser ainda mais descontados pela presença das Categorias 19-22 na tarifa real da Tarifa por Regra."
+    },
+    "secondary portion of travel": {
+      "definition (pt-br)": "Uma porção da viagem de um componente de tarifa que não é determinada como porção primária da viagem."
+    },
+    "sector": {
+      "definition (pt-br)": "Em tarifas internacionais, uma porção de uma jornada coberta por um único cupom de voo. Também chamado de segmento."
+    },
+    "secured": {
+      "definition (pt-br)": "Um lote a ser liberado em um horário especificado ou pull de assinaturas. As tarifas regulamentadas pelo Departamento de Justiça devem ser protegidas para um pull de assinaturas que inclua CRSs. Veja também o status do lote."
+    },
+    "segment": {
+      "definition (pt-br)": "Em tarifas domésticas dos EUA/CA, uma porção de uma jornada coberta por um único cupom de voo. Também chamado de setor."
+    },
+    "seller": {
+      "definition (pt-br)": "Em ofertas dinâmicas, uma empresa que vende serviços aos clientes em nome de um varejista. O preço da oferta permanece determinado pelo varejista."
+    },
+    "selling fare amount": {
+      "definition (pt-br)": "O valor que um passageiro paga à agência (ou consolidador) pela Tarifa Negociada. Também chamado de valor de venda."
+    },
+    "selling updater": {
+      "definition (pt-br)": "A pessoa ou organização que pode atualizar a tarifa de Venda com base na tarifa Líquida e que disponibiliza a Tarifa Negociada para agentes de viagens."
+    },
+    "sequence": {
+      "definition (pt-br)": "Uma série contínua ou relacionada. Usado principalmente em referência à organização de dados com categorias no sistema FareManager Rules."
+    },
+    "Service Fees": {
+      "definition (pt-br)": "O conjunto de produtos da ATPCO que automatiza e centraliza a cobrança de taxas ancilares para uma ampla gama de taxas e serviços secundários. O conjunto atual de produtos inclui taxas impostas pela transportadora, taxas de emissão de bilhetes, serviços opcionais (incluindo franquia de bagagem e taxas) e tarifas de marca."
+    },
+    "Service Type Code": {
+      "definition (pt-br)": "Um código que identifica o serviço para o qual uma taxa será avaliada. Este código consiste em um código de serviço genérico e um Subcódigo mais específico para definir ainda mais o serviço. Serviços opcionais usa os seguintes seis tipos de serviço: serviço relacionado ao voo, serviços relacionados ao bilhete, serviços relacionados à tarifa, franquia de bagagem, taxas de bagagem e mercadoria."
+    },
+    "ServiceManager": {
+      "definition (pt-br)": "Uma ferramenta de gerenciamento de fluxo de trabalho baseada na Web que os clientes usam para enviar solicitações e consultas ao Atendimento ao Cliente da ATPCO. Os clientes podem então usar seu painel no ServiceManager para monitorar o status ou gerenciar a correspondência referente às suas solicitações."
+    },
+    "ServiceManager request number": {
+      "definition (pt-br)": "Um bilhete ou número de referência gerado pelo sistema atribuído a solicitações enviadas ao Atendimento ao Cliente da ATPCO via ServiceManager."
+    },
+    "servicing an order": {
+      "definition (pt-br)": "O ato de processar alterações em um pedido, como adiar uma viagem ou solicitar um reembolso após a compra da oferta. Pode ser iniciado pelo passageiro (voluntário) ou pela companhia aérea (involuntário)."
+    },
+    "set": {
+      "definition (pt-br)": "Ver conjunto de tabelas de dados."
+    },
+    "settlement": {
+      "definition (pt-br)": "O processo pelo qual os parceiros interline alocam receita em um bilhete onde cada transportadora operou uma parte da jornada. Essas partes são determinadas pelo cupom de voo."
+    },
+    "SFFL": {
+      "definition (pt-br)": "Nível de tarifa estrangeira padrão."
+    },
+    "shopping data": {
+      "definition (pt-br)": "Solicitações de pesquisa de viagens de consumidores naturais (não por bots ou scraping) e as ofertas que foram apresentadas ao consumidor em resposta a essas solicitações. Este tipo de dados pode potencialmente incluir a interação do consumidor com as ofertas através do funil de compras. ?"
+    },
+    "sideline city": {
+      "definition (pt-br)": "A cidade que aparece em segundo lugar em um par de cidades de mercado. Também chamada de cidade de destino."
+    },
+    "SITI": {
+      "definition (pt-br)": "Venda dentro, emissão de bilhetes dentro; vendido e emitido no país de origem da viagem"
+    },
+    "SITO": {
+      "definition (pt-br)": "Venda dentro, emissão de bilhetes fora; vendido no país de origem da viagem e emitido fora do país de origem."
+    },
+    "sixth freedom": {
+      "definition (pt-br)": "O direito de transportar tráfego de passageiros pagantes entre dois pontos dentro de um país estrangeiro."
+    },
+    "SM Number": {
+      "definition (pt-br)": "Ver número de solicitação do ServiceManager."
+    },
+    "SOAP": {
+      "definition (pt-br)": "Protocolo simples de acesso a objetos."
+    },
+    "SOTI": {
+      "definition (pt-br)": "Venda fora, emissão de bilhetes dentro; vendido fora do país de origem da viagem e emitido dentro do país de origem."
+    },
+    "SOTO": {
+      "definition (pt-br)": "Venda fora, emissão de bilhetes fora; vendido e emitido fora do país de origem da viagem."
+    },
+    "SP": {
+      "definition (pt-br)": "(CTA) Permissão Especial. Referência ao número de aprovação fornecido por um governo para uma aplicação. Veja também número de aprovação."
+    },
+    "SPA": {
+      "definition (pt-br)": "1. (contabilidade interline) Acordo Especial de Rateio. 2. (CTA) Pedido de Permissão Especial. Uma submissão ao governo canadense em nome de uma transportadora solicitando permissão para realizar revisões com menos do que o aviso estatutário exigido pelo governo."
+    },
+    "special maintenance": {
+      "definition (pt-br)": "Um programa que cria múltiplas transações."
+    },
+    "SSIM": {
+      "definition (pt-br)": "Manual de Informações de Horários Padrão. Este manual estabelece um conjunto de padrões comuns para trocas externas. Ele não tem como objetivo ditar como as companhias aéreas ou outras organizações devem lidar com suas próprias informações de horários internos."
+    },
+    "SSR": {
+      "definition (pt-br)": "Solicitação de Serviço Especial."
+    },
+    "SSSS": {
+      "definition (pt-br)": "Telas de Segmento de Sequência Única."
+    },
+    "SST": {
+      "definition (pt-br)": "Bilhete de Serviço Especial, usado para emitir bilhetes para serviços especiais, como upgrades."
+    },
+    "standard commission": {
+      "definition (pt-br)": "Um nível público fixo de remuneração dos agentes estabelecido em um mercado por uma companhia aérea."
+    },
+    "standby": {
+      "definition (pt-br)": "1. Passageiros que possuem bilhetes em tarifas de standby que não lhes permitem fazer reservas. 2. Passageiros em uma lista de espera aguardando um assento disponível."
+    },
+    "starting fare": {
+      "definition (pt-br)": "Um valor de tarifa arquivado na ATPCO como um registro de tarifa ou Tarifa por Regra que é usado na primeira etapa do processo de Tarifas Negociadas para calcular ou determinar valores de tarifa relacionados."
+    },
+    "static pricing": {
+      "definition (pt-br)": "Um tipo de precificação otimizada onde as companhias aéreas pré-distribuem todos os preços usando conjuntos de ferramentas padrão. Oferece até 26 pontos de preço e os preços podem ser atualizados várias vezes ao dia (também conhecido como arquivamento de tarifas)."
+    },
+    "status codes": {
+      "definition (pt-br)": "Códigos que indicam se uma reserva está confirmada, como WL para waitlisted (lista de espera)."
+    },
+    "status dashboard": {
+      "definition (pt-br)": "Encontrado na parte superior da tela no sistema de Tarifas, este campo contém consultas, atividades em lote e links de downloads. O número de uploads que estão sendo processados também é exibido."
+    },
+    "stopover": {
+      "definition (pt-br)": "Um ponto intermediário com bilhete dentro do componente de tarifa no qual o tempo decorrido calculado (o período entre os horários locais programados de chegada e partida) é maior do que o período definido na tarifa de uma transportadora como stopover (4 horas para o Produto de Tarifas Domésticas US/CA da ATPCO e 24 horas para o Produto de Tarifas Internacionais da ATPCO). Um stopover é sempre uma transferência."
+    },
+    "Stopovers": {
+      "definition (pt-br)": "Categoria 8. Define as condições quando um(s) stopover(s) é permitido ou requerido dentro do componente de tarifa ou unidade de preço e as taxas aplicáveis, transportadoras e locais associados a esses stopovers. Por exemplo, escalas ou pausas na viagem e quanto custam."
+    },
+    "STP": {
+      "definition (pt-br)": "(DOT) Permissão Especial de Tarifa. Referência ao número de aprovação fornecido por um governo para uma aplicação. Veja também número de aprovação."
+    },
+    "STPA": {
+      "definition (pt-br)": "Pedido de Permissão Especial de Tarifa. Uma submissão ao governo dos Estados Unidos em nome de uma transportadora solicitando permissão para realizar revisões com menos do que o aviso estatutário exigido pelo governo."
+    },
+    "strikeover": {
+      "definition (pt-br)": "Uma função que permite que as tarifas sejam alteradas ou canceladas dentro de um lote de tarifas."
+    },
+    "string": {
+      "definition (pt-br)": "Ver string de tabela de dados."
+    },
+    "sub-area": {
+      "definition (pt-br)": "Subdivisões das áreas da Conferência de Tráfego da IATA que podem ou não corresponder a definições geográficas."
+    },
+    "subcategory": {
+      "definition (pt-br)": "Uma subdivisão de uma categoria usada para organizar dados complexos. Por exemplo, a Categoria 10 contém oito subcategorias."
+    },
+    "Subs": {
+      "definition (pt-br)": "Abreviatura de Assinaturas. Quaisquer dados da ATPCO enviados por transmissão eletrônica para assinantes deste serviço para uso em exibições de texto e autoprecificação."
+    },
+    "subscriber": {
+      "definition (pt-br)": "Qualquer empresa que compra dados automatizados da ATPCO."
+    },
+    "subscription distribution": {
+      "definition (pt-br)": "A transmissão de alterações de tarifas e regras para assinantes várias vezes ao dia."
+    },
+    "Subscriptions": {
+      "definition (pt-br)": "Assinaturas de Preços e Compras da ATPCO; dados da ATPCO enviados por transmissão eletrônica."
+    },
+    "subset": {
+      "definition (pt-br)": "Ver subconjunto de tabela de dados."
+    },
+    "Supplier": {
+      "definition (pt-br)": "Em ofertas dinâmicas, outro nome para a transportadora operadora que está fornecendo o serviço ao passageiro."
+    },
+    "Supplier Catalog": {
+      "definition (pt-br)": "Um tipo de Catálogo de Produtos, o Catálogo de Fornecedor tem como objetivo ser usado para comunicação entre um Varejista e um Fornecedor e significa uma lista de produtos e serviços ou itens que um Fornecedor escolheu disponibilizar para venda pelo Varejista, incluindo, mas não limitado a, informações sobre onde os produtos e serviços estão disponíveis (ou seja, localização, mercado, horários, informações diversas, etc.) e quaisquer condições gerais especificadas destes. O conteúdo disponível no catálogo depende dos acordos bilaterais (SRSIA e outros parceiros)."
+    },
+    "supporting services standards": {
+      "definition (pt-br)": "Padrões técnicos que acompanham os Padrões Proprietários da ATPCO em automação de preços e varejo que descrevem como os padrões interagem com outros processos da cadeia de suprimentos (por exemplo, emissão de bilhetes, reservas, contabilidade de receita)."
+    },
+    "supporting table": {
+      "definition (pt-br)": "Uma tabela contendo um conjunto de elementos de dados que são usados para expressar ainda mais informações adicionais sobre outros dados. Por exemplo, a Tabela de Voos da Transportadora (Tabela 986) dentro da Categoria 4 e o Índice de Tarifa por Regra é uma tabela de suporte. Também chamada de tabela interna. 163 Sub Código 164 Texto de Imposto 165 Tipo de Equipamento 166 Características e Atributos 167 Detalhe do Setor 168 Serviço e Bagagem 169 Código de Tipo de Passageiro 170 Moeda 171 Transportadora/Classe de Tarifa Resultante 172 Código de Conta 173 Designador de Bilhete 178 Zona do Usuário 183 Segurança 186 Voo da Transportadora 189 Identificação da Tarifa 190 Aplicação da Transportadora 191 Características do Assento 196 Texto 198 RBD 966 Sazonalidade / Indicador de Dia da Semana (pendente) 974 Tabela de Tipo de Tarifa 976 Setor de Superfície 978 Zona 979 Criador da Tarifa 982 Segurança (descontinuada) 983 Segurança 984 Localização Via (pendente) 985 Tabela de Limite da Transportadora (pendente) 986 Tabela Transportadora/Voo 987 Isenção 988 Reemissão 989 Tabela de Tarifa Base 990 Tabela de Aplicação da Transportadora 992 Moeda 993 Mesmo Ponto 994 Data de Substituição 995 Especificações Geográficas 996 Texto 997 Transportadora Conjunta 999 Tabela de Código de Exceção RBD"
+    },
+    "surcharge": {
+      "definition (pt-br)": "Um valor adicional aplicado a uma tarifa ou regra publicada para taxas de combustível, terminal ou incêndio."
+    },
+    "Surcharges": {
+      "definition (pt-br)": "Categoria 12. Define as condições quando as sobretaxas são aplicáveis e a cobrança correspondente. Por exemplo, taxas de combustível, taxas de segurança ou impostos aeroportuários."
+    },
+    "system assumptions": {
+      "definition (pt-br)": "Disposições do FareManager Rules que são consideradas aplicáveis (em um ambiente de regras) quando não são substituídas por disposições específicas pertinentes a uma tarifa específica ou regra geral de tarifa."
+    }
+  },
+  "T": {
+    "T/C Lock": {
+      "definition (pt-br)": "Bloqueio de Tarifa/Companhia Aérea. Uma funcionalidade para tarifas dos EUA/CA que pode ser definida para um lote com o tipo de ação Apply ou Release."
+    },
+    "table": {
+      "definition (pt-br)": "Um grupo de elementos de dados. Veja a tabela de suporte para uma lista de números e nomes de tabelas."
+    },
+    "TACT": {
+      "definition (pt-br)": "A Tarifa de Carga Aérea."
+    },
+    "tag": {
+      "definition (pt-br)": "No sistema de Tarifas, define se uma tarifa pode ser usada como uma tarifa de one-way ou round-trip."
+    },
+    "Tag 1": {
+      "definition (pt-br)": "1. (tarifas domésticas US/CA) Uma tarifa de one-way. 2. (tarifas internacionais) Uma tarifa de one-way que pode ser dobrada e dividida pela metade (pode ser usada em unidades de preço de one-way, round-trip, circle-trip e open-jaw)."
+    },
+    "Tag 2": {
+      "definition (pt-br)": "1. (tarifas domésticas US/CA) Uma tarifa publicada de round-trip. 2. (tarifas internacionais) Uma tarifa publicada de round-trip (só pode ser usada em unidades de preço de round-trip, circle-trip ou open-jaw)."
+    },
+    "Tag 3": {
+      "definition (pt-br)": "(tarifas internacionais) Uma tarifa de one-way que não pode ser dobrada e dividida pela metade (só pode ser usada em unidades de preço de one-way)."
+    },
+    "tag, process": {
+      "definition (pt-br)": "Ver process tag."
+    },
+    "tariff": {
+      "definition (pt-br)": "1. Um banco de dados que contém dados definidos por sistema, escopo geográfico e processo de distribuição. 2. Informações arquivadas em governos quando um arquivo legal é exigido."
+    },
+    "tariff name": {
+      "definition (pt-br)": "Ver tariff number."
+    },
+    "tariff number": {
+      "definition (pt-br)": "Áreas geográficas do mundo são atribuídas a números e nomes de tarifas. As tarifas para mercados dentro dessa área geográfica são distribuídas com o número de tarifa atribuído."
+    },
+    "tariff owner": {
+      "definition (pt-br)": "A organização identificada como proprietária da tarifa."
+    },
+    "tariff-owner tariff": {
+      "definition (pt-br)": "Uma tarifa onde o proprietário da tarifa é uma organização que pode ser diferente da companhia aérea cujos dados estão na tarifa."
+    },
+    "tax component": {
+      "definition (pt-br)": "Os pontos finais da viagem associados a um imposto, conforme determinado pelo processamento das Regras de Impostos (Registro X1)."
+    },
+    "Tax Summary": {
+      "definition (pt-br)": "Anteriormente o Ticket Tax Box Service (TTBS), Tax Summary é uma exibição online de impostos, taxas e encargos atuais e históricos para até dois anos civis."
+    },
+    "TC": {
+      "definition (pt-br)": "Traffic Conference (Conferência de Tráfego)."
+    },
+    "TCN": {
+      "definition (pt-br)": "1. Número de controle de transação. 2. Serviço de Troca de Bilhetes da ATPCO."
+    },
+    "TCR": {
+      "definition (pt-br)": "Tariff/Carrier/Rule (Tarifa/Companhia Aérea/Regra)."
+    },
+    "technical standards": {
+      "definition (pt-br)": "Uma norma ou requisito estabelecido para uma tarefa técnica repetível. Geralmente é um documento formal que estabelece critérios, métodos, processos e práticas técnicas ou de engenharia uniformes. O processo de padronização pode ser por decreto ou pode envolver o consenso formal de especialistas técnicos."
+    },
+    "terminal points": {
+      "definition (pt-br)": "Ponto de quebra de tarifa; as extremidades de um componente de tarifa. Normalmente usado quando uma tarifa ainda não foi avaliada para o componente de tarifa."
+    },
+    "third freedom": {
+      "definition (pt-br)": "O direito de uma companhia aérea desembarcar no território de outro estado passageiros, carga e correspondência embarcados no estado em que está registrada."
+    },
+    "through fare": {
+      "definition (pt-br)": "Uma tarifa aplicável para viagens entre dois pontos de quebra de tarifa consecutivos através de um ponto intermediário. Uma tarifa through pode ser uma tarifa publicada/especificada ou uma tarifa construída/não publicada."
+    },
+    "Ticket Endorsements": {
+      "definition (pt-br)": "Categoria 18. Indica os requisitos de endosso do bilhete, contendo o texto a ser usado e a localização do bilhete necessária para o endosso. Por exemplo, um bilhete pode ser transferido ou endossado para outra companhia aérea."
+    },
+    "ticket-related services": {
+      "definition (pt-br)": "Um serviço opcional que deve ser associado a um bilhete de passageiro específico, embora não necessariamente a um voo específico. Por exemplo, um serviço de acesso ao lounge pode ser fornecido apenas se o passageiro possuir um bilhete que confirme a viagem para dentro ou para fora do aeroporto onde existe a instalação do lounge."
+    },
+    "ticketed point": {
+      "definition (pt-br)": "Ponto mostrado na seção “válido para passagem” do bilhete do passageiro. Pode ser uma conexão, stopover ou ponto de quebra de tarifa."
+    },
+    "ticketed point mileage": {
+      "definition (pt-br)": "O número de milhas entre pares de cidades, conforme publicado no Manual de Milhagem de Ponto de Bilhete."
+    },
+    "ticketing": {
+      "definition (pt-br)": "A emissão de um documento contabilizável, que serve como um registro do produto comprado pelo cliente e fornece um registro para todas as companhias aéreas envolvidas no itinerário dos serviços pagos e esperados para serem entregues."
+    },
+    "ticketing airline": {
+      "definition (pt-br)": "Um membro ZED/MIBA que emite bilhetes de taxa reduzida para suas pessoas elegíveis de acordo com o acordo ZED/MIBA para transporte nas rotas de outra parte (ou partes) ao acordo ZED/MIBA. Ver também transporting airline."
+    },
+    "ticketing amount": {
+      "definition (pt-br)": "O valor no cupom do passageiro na Base Fare Box."
+    },
+    "ticketing code": {
+      "definition (pt-br)": "Um código usado para substituir o código da classe de tarifa no bilhete quando ele é emitido e possivelmente na exibição da tarifa."
+    },
+    "Ticketing Fees": {
+      "definition (pt-br)": "Produto ATPCO que fornece um processo padrão para instruir os sistemas de precificação sobre como coletar taxas de serviço de bilhete e cartão de crédito em nome de uma companhia aérea quando ela é a companhia aérea emissora ou validadora. Este produto oferece suporte a necessidades de distribuição pública e privada e oferece opções para definir taxas por tipo de passageiro, viagem, base tarifária e data."
+    },
+    "TMC": {
+      "definition (pt-br)": "Travel management company (Empresa de gerenciamento de viagens)."
+    },
+    "TN3270 client": {
+      "definition (pt-br)": "Software usado para acessar a exibição nativa 3270."
+    },
+    "Tour Conductor Discounts": {
+      "definition (pt-br)": "Categoria 20. Fornece um valor de tarifa específico ou as informações para calcular uma tarifa conforme definido em uma regra para qualificar um guia de turismo para um desconto. Por exemplo, guias de turismo voam por um determinado preço."
+    },
+    "Tours": {
+      "definition (pt-br)": "Categoria 27. Especifica os requisitos do tour para uma tarifa. Por exemplo, pacote e noites mínimas, preço mínimo ou o número do tour ou tipo de tour que às vezes pode ser agrupado com hotel ou aluguel de carro."
+    },
+    "TPM": {
+      "definition (pt-br)": "Ticketed point mileage (Milhagem de ponto de bilhete)."
+    },
+    "Traffic conference": {
+      "definition (pt-br)": "Ver area."
+    },
+    "transaction": {
+      "definition (pt-br)": "Um registro de tarifa. Um conjunto de dados definido em um lote de tarifas que determina os componentes de uma tarifa."
+    },
+    "transaction file": {
+      "definition (pt-br)": "Registros em um lote que não foram atualizados."
+    },
+    "transatlantic": {
+      "definition (pt-br)": "Transporte entre a Área 1 e a Área 2 ou a Área 1 e a Área 3 através do Oceano Atlântico."
+    },
+    "transborder": {
+      "definition (pt-br)": "Transporte entre os 50 estados dos EUA, incluindo o Distrito de Columbia e o Canadá."
+    },
+    "transfer": {
+      "definition (pt-br)": "Uma mudança de serviço do serviço de uma companhia aérea para o serviço da mesma companhia aérea (online) ou para o serviço de outra companhia aérea (interline). Isso inclui stopovers e conexões. Ver também interline transfer."
+    },
+    "Transfers": {
+      "definition (pt-br)": "Categoria 9. Define as condições ou restrições sob as quais as transferências podem ocorrer e os carregadores, transportadoras e locais aplicáveis associados a elas. Por exemplo, se um passageiro pode fazer uma transferência em uma determinada cidade na ida e na volta sem custo."
+    },
+    "transoceanic": {
+      "definition (pt-br)": "Viagem transatlântica ou transpacífica."
+    },
+    "transpacific": {
+      "definition (pt-br)": "Transporte entre a Área 1 e a Área 2 ou a Área 1 e a Área 3 através do Oceano Pacífico."
+    },
+    "transport product": {
+      "definition (pt-br)": "Produto atômico comercial entre duas estações que podem ser operadas por aeronaves, bem como por outros veículos de transporte, como trens, ônibus, etc."
+    },
+    "transporting airline": {
+      "definition (pt-br)": "Um membro ZED/MIBA que transporta pessoas elegíveis da outra parte (ou partes) de acordo com o acordo ZED/MIBA. Mais especificamente, esta é a companhia aérea cujo código de companhia aérea aparece nos voos a serem precificados e bilhetes emitidos usando tarifas ZED/MIBA. No caso de S/A/Fs e (se bilateralmente permitido) code shares, isso pode ser diferente da companhia aérea operadora. Ver também ticketing airline."
+    },
+    "Travel Restrictions": {
+      "definition (pt-br)": "Categoria 14. Indica restrições específicas de data de viagem. Isso inclui as datas em que a tarifa pode ser usada pela primeira vez, início da viagem, vencimento da viagem ou conclusão da viagem."
+    },
+    "travel segment indicator": {
+      "definition (pt-br)": "Códigos que definem uma porção específica de viagem. Eles podem ser usados sozinhos ou em combinação com localidades geográficas para especificar a aplicação de uma provisão. Esses códigos estão listados no Apêndice H de Aplicação de Dados."
+    },
+    "trip": {
+      "definition (pt-br)": "Uma porção de um itinerário entre dois pontos de quebra de tarifa consecutivos (usado em tarifas domésticas). Também chamado de componente de tarifa."
+    },
+    "true currency": {
+      "definition (pt-br)": "Qualquer moeda encontrada no Apêndice D que não seja o código XXX da Universal Mileage Currency."
+    },
+    "TSI": {
+      "definition (pt-br)": "Travel segment indicator (Indicador de segmento de viagem)."
+    },
+    "TTBS": {
+      "definition (pt-br)": "Ticket Tax Box Service (Serviço de Caixa de Impostos de Bilhetes). Ver Tax Summary."
+    },
+    "TTFC": {
+      "definition (pt-br)": "Ticket taxes, fees, and charges (Impostos, taxas e encargos de bilhetes)."
+    },
+    "turnaround": {
+      "definition (pt-br)": "Ponto de quebra de tarifa geográfica mais distante na unidade de preço, medido a partir da origem da unidade de preço. Não aplicável em uma unidade de preço de one-way. Também chamado de ponto de retorno."
+    }
+  },
+  "U": {
+    "UDG": {
+      "definition (pt-br)": "Grupo definido pelo usuário."
+    },
+    "ultimate revenue amount": {
+      "definition (pt-br)": "O montante retido pela companhia aérea, excluindo todos os impostos, taxas e comissões pós-relatório."
+    },
+    "unavailable tag": {
+      "definition (pt-br)": "Uma etiqueta anexada ao Registro 1 indicando que as regras estão incompletas ou não podem ser usadas para precificação automática."
+    },
+    "unbundled fares": {
+      "definition (pt-br)": "Qualquer tarifa, pública ou privada, que exclui todos os impostos e taxas como parte de seu preço distribuído. Ver tarifas 'bundled'."
+    },
+    "unedited transaction": {
+      "definition (pt-br)": "Um registro de tarifa dentro de um lote de tarifas que contém componentes que não são reconhecidos como válidos."
+    },
+    "unfiled": {
+      "definition (pt-br)": "1. O status atribuído pelo sistema a provisões que foram atualizadas, mas ainda não foram processadas pelo GFS e, posteriormente, enviadas em Subscrições. Ver também dados 'filed'. 2. Ver 'non-filed'."
+    },
+    "universal mileage currency": {
+      "definition (pt-br)": "Código de moeda XXX usado para registrar prêmios de milhagem"
+    },
+    "UNN": {
+      "definition (pt-br)": "Criança desacompanhada (geralmente com idade entre 5 e 11 ou 8 e 11 anos)."
+    },
+    "unpublished fare": {
+      "definition (pt-br)": "Termo ATPCO para tarifas construídas adicionando valores especificados e complementares. Também chamada de 'constructed'."
+    },
+    "UPA": {
+      "definition (pt-br)": "Atributos Universais de Produto. Um tipo de conteúdo Routehappy, os UPAs descrevem tarifas, produtos e serviços com mensagens visuais, imagens, vídeos e tours de cabine. Ver também UTA e Comodidades."
+    },
+    "update": {
+      "definition (pt-br)": "Fazer alterações no arquivo mestre."
+    },
+    "update a batch": {
+      "definition (pt-br)": "Mover transações dentro de um lote para o banco de dados. A maioria das informações atualizadas no banco de dados não é autoprecificável ou recebida pelos assinantes, a menos que seja arquivada no GFS. Também chamado de tornar um lote público (ação de lançamento)."
+    },
+    "update errors": {
+      "definition (pt-br)": "Registros no processamento em lote que não passam na atualização. A etapa de atualização aplica as tarifas ao arquivo mestre. Se houver dificuldades, a tarifa não será aplicada ao arquivo mestre. Em vez disso, torna-se um registro de erro de atualização. Os erros de atualização ocorrem, por exemplo, quando uma transportadora tenta aumentar uma tarifa que não existe, cancelar uma tarifa que já foi cancelada ou adicionar uma nova tarifa que já existe."
+    },
+    "updater": {
+      "definition (pt-br)": "Um indivíduo ou organização com autoridade para alterar dados nos sistemas ATPCO."
+    },
+    "US/CA": {
+      "definition (pt-br)": "Os Estados Unidos e o Canadá."
+    },
+    "US/CA domestic fare": {
+      "definition (pt-br)": "Tarifas publicadas para viagens dentro dos Estados Unidos continentais, entre os Estados Unidos continentais e o Alasca/Havaí, dentro do Alasca/Havaí, entre os 50 Estados Unidos e Canadá/Porto Rico/Ilhas Virgens, dentro do Canadá/Porto Rico/Ilhas Virgens ou entre Canadá e Porto Rico/Ilhas Virgens. Também chamadas de tarifas locais."
+    },
+    "user ID": {
+      "definition (pt-br)": "O nome de usuário de sete caracteres para acesso aos sistemas ATPCO."
+    },
+    "user-defined group": {
+      "definition (pt-br)": "Um grupo de condições, semelhante a tabelas inclusivas, criado para acelerar o processamento de campos frequentemente usados (localização, roteamento, regra, nota de rodapé e mercado) em uma consulta."
+    },
+    "user-defined zone": {
+      "definition (pt-br)": "Qualquer agrupamento de localidades usando cidades, estados, países, zonas da indústria ou áreas definidas por um proprietário de dados e atribuídas a um número de Tabela 978 exclusivo. Este ID de zona pode então ser usado como um único local ao criar tarifas na Categoria 25."
+    },
+    "UTA": {
+      "definition (pt-br)": "Atributos Universais de Bilhete. Um tipo de conteúdo Routehappy Rich, os UTAs descrevem benefícios e restrições por tarifa em linguagem simples e direta. Os UTAs são provenientes de arquivos de tarifas ATPCO, tarifas de marca e serviços opcionais da companhia aérea. Ver também UPAs e Comodidades."
+    }
+  },
+  "V": {
+    "validate": {
+      "definition (pt-br)": "Autenticar ou comprovar um componente de tarifa."
+    },
+    "validating carrier": {
+      "definition (pt-br)": "A companhia aérea cujo talonário de bilhetes foi usado para emitir a passagem. Esta companhia aérea é normalmente a detentora do dinheiro da passagem. Também conhecida como 'plating carrier'."
+    },
+    "vendor": {
+      "definition (pt-br)": "Uma organização que não possui um código de dois caracteres atribuído pela IATA."
+    },
+    "via point": {
+      "definition (pt-br)": "Um ponto intermediário entre dois pontos terminais de um componente de tarifa."
+    },
+    "Visit Another Country": {
+      "definition (pt-br)": "Categoria 28. Reflete os requisitos para se qualificar para uma tarifa de “visita a outro país”. Por exemplo, país de residência, distância do país de destino e compra da passagem."
+    },
+    "voluntary cancellation": {
+      "definition (pt-br)": "Um cancelamento de um itinerário com bilhete que o passageiro solicitou, onde não há itinerário de substituição e a passagem é reembolsada ou descartada (sem valor). Não inclui passagens perdidas."
+    },
+    "Voluntary Changes": {
+      "definition (pt-br)": "Categoria 31. Define as condições e taxas aplicáveis sob as quais as alterações voluntárias são permitidas. Na ausência de dados de alterações voluntárias ou quando nenhuma disposição aplicável é correspondida, então uma alteração é permitida sem custo e sem restrições para essa tarifa."
+    },
+    "voluntary changes": {
+      "definition (pt-br)": "Uma alteração no itinerário com bilhete que o passageiro solicitou, onde há um itinerário de substituição e a passagem é reemitida/revalidada. Passageiros que desejam aguardar em stand-by por um voo não estão incluídos nesta definição."
+    },
+    "Voluntary Refunds": {
+      "definition (pt-br)": "Categoria 33. Define as condições e taxas aplicáveis sob as quais os reembolsos voluntários são permitidos. Na ausência de dados de reembolsos voluntários ou quando nenhuma disposição aplicável é correspondida, então um reembolso é permitido sem custo e sem restrições para essa tarifa."
+    },
+    "VSAM": {
+      "definition (pt-br)": "Método de acesso ao armazenamento virtual."
+    }
+  },
+  "W": {
+    "waitlist": {
+      "definition (pt-br)": "Lista criada quando não há mais vagas disponíveis; nomes aguardando disponibilidade de assento."
+    },
+    "waivers": {
+      "definition (pt-br)": "Qualquer enfraquecimento ou eliminação de regras ou condições como parte de uma promoção de tarifa privada."
+    },
+    "Web Fares": {
+      "definition (pt-br)": "As companhias aéreas têm acordos com fornecedores terceirizados para coletar preços de itinerários de companhias aéreas disponíveis publicamente de várias fontes da web, incluindo airline.com, OTAs, etc. Essas tarifas da web são específicas do site de viagens e da data da viagem e contêm as informações que são mostradas ao consumidor. (Os dados da ATPCO são baseados no mercado (tarifas) e em tarifas (regras) e abrangem a vida útil da tarifa (todas as datas de viagem))."
+    },
+    "web service": {
+      "definition (pt-br)": "Um sistema de software projetado para suportar a interação interoperável máquina a máquina através de uma rede."
+    },
+    "WSDL": {
+      "definition (pt-br)": "Linguagem de descrição de serviços web."
+    }
+  },
+  "X": {
+    "XML": {
+      "definition (pt-br)": "Linguagem de Marcação Extensível. Um conjunto de regras para codificar documentos em formato legível por máquina."
+    },
+    "XML messaging": {
+      "definition (pt-br)": "O uso de dados codificados em XML para comunicação entre dois dispositivos."
+    }
+  },
+  "Y": {
+    "yield": {
+      "definition (pt-br)": "Um indicador de rentabilidade que é calculado subtraindo o CASK do RASK."
+    },
+    "yield management": {
+      "definition (pt-br)": "A prática de alterar a disponibilidade de assentos para cada código de reserva em um voo. Este processo garante a receita otimizada por assento vendido e envolve o uso detalhado de informações históricas de reservas, tarifas e lucros, com algoritmos poderosos para implementação. Muitas companhias aéreas usam o que é chamado de otimização de receita O&D, que cria modelos de gerenciamento de receita em toda a rede de uma transportadora, em vez de apenas em voos específicos. Os dados RBD da ATPCO fornecem a ligação entre inventário e preço, e são usados nestes sistemas."
+    },
+    "YQ/YR": {
+      "definition (pt-br)": "Ver Taxas Impostas pela Companhia Aérea."
+    },
+    "YY": {
+      "definition (pt-br)": "Um código de companhia aérea genérico usado para companhias aéreas que participam dos acordos da IATA. Qualquer participante pode usar as tarifas e regras identificadas pela companhia aérea YY."
+    }
+  },
+  "Z": {
+    "ZED": {
+      "definition (pt-br)": "Desconto Zonal para Funcionários."
+    },
+    "zonal fare": {
+      "definition (pt-br)": "Uma tarifa onde a origem, o destino ou ambos são expressos como uma zona definida pelo usuário."
+    },
+    "zones": {
+      "definition (pt-br)": "Divisões de áreas geográficas do mundo. Os códigos de zona da ATPCO são três números que começam com 0 ou 1 para a Área 1; com 2 para a Área 2 e com 3 para a Área 3."
+    }
+  }
+}
